@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE design SYSTEM "design.dtd">
+<design name="Tool design for Series 60 Themes Creation Application">
+<task name="MENU ICONS">
+<toolbox bitmapblocked="false" colourize="true" createanother="true" designaids="false" intensity="true" mask="true" mirror="false" move="true" multiplecomponents="false" multipleelements="true" rotate="true" samecomponent="false" scale="false" split="false" tile="false"/>
+<componentgroup name="Application Icons">
+<component name="Third Party Icons" picture="comp_pb_names_list.bmp">
+<element appuid="0x2002aa96" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Opera_Mobile_102599683074666" name="Opera Mobile 10" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000cea3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Google_Maps2915590299008" name="Google Maps" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000cea6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Google_Maps_22915590308716" name="Google Maps 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0000BCD" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Xplore2915590314407" name="Xplore" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a320" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Google_Search2915590324449" name="Google Search" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a321" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Google_Search_22915590329805" name="Google Search 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041c9a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Foursquare_22915590339848" name="Foursquare" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20024d7a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Skype5891140054423" name="Skype" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030c90" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Shazam6215519574010" name="Shazam" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003a8f3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Trailers6366639420574" name="Nokia Trailers" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20045c5e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Facinate6512122460292" name="Facinate" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003ae76" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CNN_Intl2249802316336" name="CNN Intl" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000dcc9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Open_Maps2249802355837" name="Open Maps" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a08f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Climate_Mission2249802381278" name="Climate Mission" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b597" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Video_Pro2249802406049" name="Video Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20062282" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Soundtracker2249802431156" name="Soundtracker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b2fb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Reversi2249802455592" name="Reversi" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200612c2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tic_Tac_Toe2249802481033" name="Tic Tac Toe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026753" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Minesweeper2249802505805" name="Minesweeper" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006e577" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mines2249802530242" name="Mines" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e48" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Rollercoaster2249802554678" name="Rollercoaster" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005ad7e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WOR_The_Dig2249802579785" name="WOR The Dig" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004448f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="High_Hats2249802604556" name="High Hats" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004c063" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Vikings_Can_Fly2249802628993" name="Vikings Can Fly" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003157e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Big_Screen2249802662468" name="Nokia Big Screen" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20068c69" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cute_Tube2249802688244" name="Cute Tube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002fea0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Galaxy_on_Fire2249802713350" name="Galaxy on Fire" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20045076" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Solitaire_Games2249802739126" name="Solitaire Games" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006e51e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tic_Tac_Toe_Plus2249802763897" name="Tic Tac Toe Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005fb12" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fast_Tube2249802788669" name="Fast Tube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006f5f2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Liqua_Pop_Lite2249802813440" name="Liqua Pop Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a58c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="4squick_free2249802838547" name="4squick free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026adb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Elements2249802863318" name="Elements" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200682a1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Heathrow_Airport_Guide2249802888424" name="Heathrow Airport Guide" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200374ed" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Loop2249802913196" name="Loop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006dae5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WWF_Species_Album2249802938302" name="WWF Species Album" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035da1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Picsel_Smart_Office2249802963408" name="Picsel Smart Office" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bab7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Incredible_Circus2249802988515" name="Incredible Circus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e857" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cut_the_Rope2249803013621" name="Cut the Rope" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004ac70" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sone2249803038392" name="Sone" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026054" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sports_Tracker2249803063499" name="Sports Tracker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a18b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="miCoach2249803087935" name="miCoach" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035cd0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Toshl2249803112707" name="Toshl" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003875f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Converter_Qt2249803138483" name="Converter Qt" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041c23" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Horus2249803164258" name="Horus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004be4b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Barbell_Gym_Tracker2249803184343" name="Barbell Gym Tracker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006ba1c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Carpe_Noctem2249803203759" name="Carpe Noctem" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006cab0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RP_Plus2249803222505" name="RP Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e9d7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Quasar_MX_Lite2249803241251" name="Quasar MX Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004223f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Contre_Jour2249803260332" name="Contre Jour" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b8db" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Slide_to_Unlock2249803279412" name="Slide to Unlock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e933" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BMI_Calc2249803298493" name="BMI Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003fd18" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Places2249803317574" name="Nokia Places" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200476a7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="nWeather2249803335985" name="nWeather" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006786a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="World_Flags2249803355066" name="World Flags" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030fff" derviedlayoutid="qgn_menu_appsgrid_cxt" id="App_Stop2249803374147" name="App Stop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b2dd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tap2Screen2249803393227" name="Tap2Screen" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bb3a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Stopwatch2249803412308" name="Stopwatch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20031e7b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Panorama2249803431389" name="Nokia Panorama" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036317" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Battery_Monitor2249803450135" name="Nokia Battery Monitor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003e064" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_World_Gaze2249803469216" name="Nokia World Gaze" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001c546" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_City_Lens2249803487962" name="Nokia City Lens" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003981b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Molome2249803507042" name="Molome" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b329" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FidMe2249803525788" name="FidMe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037324" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CutePress2249803544534" name="CutePress" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200307ac" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FontZoomer2249803563615" name="FontZoomer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e909" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CalQtlator2249803582361" name="CalQtlator" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200420d0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Lyrics2249803600773" name="Lyrics" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101fd693" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Flash_Player2249803619519" name="Flash Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b30d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Whatsapp2249803638265" name="Whatsapp" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b753" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Battery_Info2249803657011" name="Battery Info" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20061750" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blob6391110700521" name="Blob" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a582" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ScreenSnap6391110718263" name="ScreenSnap" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20065cc4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Situations6391110723284" name="Situations" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030536" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Climate_mission_3D1843129711971" name="Climate mission 3D" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101b94f4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Square_Maker1611400941450" name="Square Maker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10176b7d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fantasy_Kingdom_Defense1611400961201" name="Fantasy Kingdom Defense" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101e8261" derviedlayoutid="qgn_menu_appsgrid_cxt" id="River_Lite1611400966557" name="River Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1012cf01" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Chords1611400971243" name="Chords" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101c0ac8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="E_Codes1611400976264" name="E Codes" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004111a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cute_Box1611400981286" name="Cute Box" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006a49c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sky_Files1611400985637" name="Sky Files" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200398f9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fruit_Ninja_Free1611400998693" name="Fruit Ninja Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001e4a8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bambuser1611401003714" name="Bambuser" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bb39" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tudulis1611401008735" name="Tudulis" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bef4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Printer_1D_Free1611401013422" name="Printer 1D Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006f7c5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Guitar_Chords1611401017773" name="Guitar Chords" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bafc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hotels1611401022460" name="Hotels" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006d175" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fahrplan1611401027816" name="Fahrplan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003003f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Asphalt_55312095717074" name="Asphalt 5" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200398fe" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fruit_Ninja5312095747536" name="Fruit Ninja" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200398fd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fruit_Ninja_25312095764609" name="Fruit Ninja 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b2cc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Asphalt_65312095780677" name="Asphalt 6" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a08b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bounce_Boing_Battle5312095797079" name="Bounce Boing Battle" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0005ae3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="3g_tan$3544183897247" name="3Gtan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003016C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="4Shared15480939498717" name="4Shared" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20047718" derviedlayoutid="qgn_menu_appsgrid_cxt" id="7_E_Mezzo7910918413175" name="7 E Mezzo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20032546" derviedlayoutid="qgn_menu_appsgrid_cxt" id="10PM$21824264383381" name="10PM" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20021f2a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="360ting$9594664891033" name="360ting" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000875a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Abby_Lingvo$24340492300117" name="ABBYY Lingvo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010faa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ABBYY_BCR$9362446476577" name="ABBYY BCR" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe000e9c4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Accel_Switch$1284270181332" name="Accel Switch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005bd36" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Access_Apps22206516747059" name="Access Apps" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe0000230" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Active_File$5296528099606" name="Active File" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003732b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ActiveJack11296699900766" name="ActiveJack" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002d119" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Address_book$16494801772278" name="Address book" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001061d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Adv_Device_Lock_Pro" name="Adv Device Lock Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000131" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Adv.Call_Mgr." name="Adv Call Mgr" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001a903" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AdvanceBlocker$7496418068788" name="AdvanceBlocker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001a8fa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AdvanceBlocker2$7496418082085" name="AdvanceBlocker 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000138" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Advanced_Device_Locks" name="Advanced Device Locks" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e31d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Advanced_Phone_Lock" name="Advanced Phone Lock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200103e3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Advanced_Theme$10339911931492" name="Advanced Theme" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200036db" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Agile_Messenger" name="Agile Messenger" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000af6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Alarm_Manager" name="Alarm Manager" previewscreen="Application Grid" show="true"/>
+<element appuid="0xebc4b4d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ALCinfo894397231366" name="ALC Phone Info" previewscreen="Application Grid" show="true"/>
+<element appuid="0x150487df" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AllEditor$8153933043166" name="AllEditor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001f5ac" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Alon_Contact_Guide$12065173026282" name="Alon Contact Guide" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0001286" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Alon_MP3" name="Alon MP3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe1a0b4f1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Alt_reader$9196930498988" name="Alt Reader" previewscreen="Application Grid" show="true"/>
+<element appuid="0xaf101004" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Android_M1$12597932116791" name="Android M1" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e51" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Angry_Birds$11953580116184" name="Angry Birds" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b21f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Angry_Birds_Rio$3402212779311" name="Angry Birds Rio" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e52" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Angry_Birds_Seasons$1199896881828" name="Angry Birds Seasons" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200045d6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Animated_SMS" name="Animated SMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00034c3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AnimSprite" name="AnimSprite" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00034c0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="animsprite_lite" name="Animsprite Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a8e9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Antarctica1509885537424" name="Antarctica" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200396ca" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Anti_Mosquito1058758795115" name="Anti Mosquito" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001c27" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Antivirus" name="Antivirus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20049f08" derviedlayoutid="qgn_menu_appsgrid_cxt" id="App_Rename11715936838563" name="App Rename" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe845dc07" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AppUidViewer$12226062516222" name="AppUidViewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B0F3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Asgatech_Quran31575381486857" name="Asgatech Quran" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20017535" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Asphalt4$7496418001604" name="Asphalt4" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e87" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Asphalt_5_HD$4592484978964" name="Asphalt 5 HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001567D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Assasin's_creed" name="Assasin's Creed HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035E06" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Assassins_Creed_HD_212944006845649" name="Assassins Creed HD 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003088b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Astroller894397260623" name="Astroller" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001928f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Audials_Mobile$169974492367431" name="Audials Mobile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000851f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Audible_Player" name="Audible Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200669e1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Audiowave_222156149452072" name="Audiowave 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0000E9B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="auto_Hang_Up" name="Auto Hang Up" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003277" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Auto_Hello656562137035" name="Auto Hello" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000E69B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Auto_Installer9504373825210" name="Auto Installer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x100059b5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Auto_Lock" name="Auto Lock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007d89" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Auto_Theme" name="Auto Theme" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003b35" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Autolock" name="Autolock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e69a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AutoSisInstaller$39121346948005" name="AutoSisInstaller" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20016a5d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Avatar_SMS1058758812465" name="Avatar SMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026acf" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Banner$16662024301495" name="Banner" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20064C9C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bar_Briscola1295401937601" name="Bar Briscola" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001e906" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Battery_Extender$61248330766636" name="Battery Extender" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022842" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BatterySaver$7496418096081" name="BatterySaver" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028142" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BatUnInst$32098599320863" name="BatUnInst" previewscreen="Application Grid" show="true"/>
+<element appuid="0xeb7a0591" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bayan" name="Bayan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe5f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BBirthday" name="BBirthday" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026926" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Beams11296699958258" name="Beams" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20044230" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BedAndBreakfast11296699981391" name="BedAndBreakfast" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8233737" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Beeper" name="Beeper" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001c787" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BeeTagg4948294798370" name="BeeTagg" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe66" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Alarms" name="Best Alarms" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ac2e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BestBirthday$9362446414837" name="BestBirthday" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0000790" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Calc" name="Best Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001254d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Calc_2" name="Best Calc 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe5a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_CallRecorder" name="Best CallRecorder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a588" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Converter" name="Best Converter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe57" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Dictaphone" name="Best Dictaphone" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000796" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_FullScreen_Clock" name="Best FullScreen Clock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001254F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Jotter" name="Best Jotter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200095e4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_KeyLocker" name="Best KeyLocker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ae6a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="B_Menu" name="Best Menu" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200095ea" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Profile" name="Best Profile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200095e7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BestProfiles" name="Best Profiles" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012554" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Reminder" name="Best Reminder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012553" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Reminder_2" name="Best Reminder 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001AE6E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Reminder_317830769977013" name="Best Reminder 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001254e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Safe" name="Best Safe" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000078d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BestTaskMan" name="Best TaskMan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012550" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Timer" name="Best Timer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200095e8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Best_Torch" name="Best Torch" previewscreen="Application Grid" show="true"/>
+<element appuid="0xead9aab5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blackboard$9446081949528" name="Blackboard" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026922" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blackboard_2$798838329362" name="Blackboard 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000791" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blacklist" name="Blacklist" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20016b2e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blacklistr$35774674974276" name="Blacklistr" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200627ad" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bord1633150355620" name="Bord" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001fb64" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Brain_Evo$12597932144448" name="Brain Evo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022ba7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BrightLight$12226062564189" name="BrightLight" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200476ca" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Briscola1999170597322" name="Briscola" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe57215a6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BT_chat$2382014539768" name="BT chat" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007d83" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BT_Guard" name="BT Guard" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe0000329" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BT_Receiver$19328221578010" name="BT Receiver" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe48a4509" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BTSwitch$13755750402348" name="BTSwitch" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE4342027" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BT_Switcher656562108119" name="BT Switcher" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20044110" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bubble_Birds11296699964041" name="Bubble Birds" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036f13" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bussola2$53921417521825" name="Bussola Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036f15" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Bussola_Plus$3519050497854" name="Bussola Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026925" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Calc$4157824657323" name="Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037380" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Calc_QT33513485977722" name="Calc QT" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20038760" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Calculator_QT32921181460050" name="Calculator QT" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003cf6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Call_And_Sms_Guard" name="Call And Sms Guard" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe68" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CALL_CHEATER" name="Call Cheater" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007744" derviedlayoutid="qgn_menu_appsgrid_cxt" id="call_master$831199605035" name="Call Master" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000789B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CallCheater" name="CallCheater" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001806" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CallMaster" name="CallMaster" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fabc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CallRecorder$7496418109378" name="CallRecorder" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa2e8566c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Callrejecter$7496418122675" name="Callrejecter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005F643" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CallSafe31575381502846" name="CallSafe" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe839940e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="callsinfo$7278503156965" name="Calls Info" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20019295" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Callsmsfilter$9196930473565" name="Call Sms Filter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002582" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cambio_Modalita'" name="Cambio Modalita'" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000264f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CameraFX" name="CameraFX" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200389A6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Camera_FX31099797941569" name="CameraFX 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042379" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Camera_Lover_Pack917933492453" name="Camera Lover Pack" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004237a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CLP_Retromatic917933593150" name="CLP Retromatic" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004237b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CLP_Multimatic917933603356" name="CLP Multimatic" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042377" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CLP_PhotoTwister917933612201" name="CLP PhotoTwister" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042376" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CLP_PhotoRama917933620706" name="CLP PhotoRama" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042378" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CLP_PhotoFusion917933629551" name="CLP PhotoFusion" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe9e52c04" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Camera_Pro894397283416" name="Camera Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200389a4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Camera_Pro_213727050014951" name="Camera Pro 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa43ce6de" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cCalc" name="cCalc" previewscreen="Application Grid" show="true"/>
+<element appuid="0xab508b66" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cCal_Pro$20369266677428" name="cCalc Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035736" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CalcPro15275735551593" name="cCalc Pro 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa01ff1d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cCam" name="cCam" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e09c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cClock$9594664826036" name="cClock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001A9D5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Chat$6389326125247" name="Chat" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00072b0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Chromatic_Tuner$2973452586013" name="Chromatic Tuner" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002af94" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cleaner894397266066" name="Cleaner" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00086eb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cleaner_218744994059876" name="Cleaner 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034B55" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Clock$21824264438181" name="Clock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200032f9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Clock_screensaver" name="Clock screensaver" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036cba" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ClockSync777332830757" name="ClockSync" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002674f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Compass$5168290334717" name="Compass" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe4b73955" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Compass_211296699924239" name="Compass 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041cf9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Compass_Pro18637005721719" name="Bussola Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a8ee" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Forza_412944006822516" name="Connect 4" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf01fbd20" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Contacts_Transfer" name="Contacts Transfer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027240" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Converter$17257762601392" name="Converter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026ADD" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Counter$21824264453126" name="Counter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20047716" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Crucipuzzle7126789427292" name="Crucipuzzle" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001254c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Crypto" name="Crypto" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1018d3a9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CSMobile$85454549558065" name="CSMobile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004416e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CurrencyCalc11296699952815" name="CurrencyCalc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002BC8A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CustDict$2665995886907" name="CustDict" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007d84" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cute_keys$7278503264800" name="Cute Keys" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200345f6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CuteTube5091812097194" name="CuteTube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003AFFA" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cuteWiki15624326911582" name="cuteWiki" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000b6ef" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Data_Quota$967072989599" name="Data Quota" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035a3e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Decibel$1249030618253" name="Decibel" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0004641" derviedlayoutid="qgn_menu_appsgrid_cxt" id="DEdit" name="DEdit" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002692d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Disks33108012303243" name="Disks Touch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003737b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Disks_Touch_QT33513485984185" name="Disks Touch QT" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20077A1E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="DiVX_Play$6389326152346" name="DiVX Play" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000bc9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="DivX_Player" name="DivX Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000ed5f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Divx_Player_2" name="Divx Player 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002ee3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Docs$9594665204088" name="Docs" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20024113" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Dr_Web1490900408945" name="Dr Web" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036f16" derviedlayoutid="qgn_menu_appsgrid_cxt" id="DragonSight_Screenshot138429804137164" name="DragonSight Screenshot" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20020305" derviedlayoutid="qgn_menu_appsgrid_cxt" id="DuDu_Recorder18637005743832" name="DuDu Recorder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036CB8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Dukto29496379604975" name="Dukto" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE8CB8D04" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Easy_Keylock9504373840156" name="Easy Keylock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a84e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Easy_Reject" name="Easy Reject" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010611" derviedlayoutid="qgn_menu_appsgrid_cxt" id="EasyBusy$2665995874335" name="EasyBusy" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002691c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Egg_Timer$9446081911087" name="Egg Timer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035d48" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Elio_Ti_Guida$9132954610477" name="Elio Ti Guida" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001874" derviedlayoutid="qgn_menu_appsgrid_cxt" id="emTube" name="emTube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000259a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Encryption$8596575294763" name="Encryption" previewscreen="Application Grid" show="true"/>
+<element appuid="0xffff0813" derviedlayoutid="qgn_menu_appsgrid_cxt" id="EndClear14244743688172" name="EndClear" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000ce79" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Energy_Profile" name="Energy Profile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003966a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="EpisodeNext11296699913013" name="EpisodeNext" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b2a6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ESPNF1$9132954615580" name="ESPNF1" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005AA4D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="EToptimize31575381508630" name="ET Optimize" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002F1AE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ET_Slide_Unlock33111571726385" name="ET Slide Unlock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041cf0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Exchange_Converter26228737774200" name="Currency Converter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005cb77" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Extra_Buttons23840654651743" name="Extra Buttons" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0002844" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Expense" name="Expenses" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20020528" derviedlayoutid="qgn_menu_appsgrid_cxt" id="EyeCall$5424009723861" name="EyeCall" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037516" derviedlayoutid="qgn_menu_appsgrid_cxt" id="eZSpot_Premium17830769962725" name="eZSpot Premium" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20011184" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Facebook$304814602456900" name="Facebook" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b4d5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FB_Browser$5983688437072" name="FB Browser" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200389fe" derviedlayoutid="qgn_menu_appsgrid_cxt" id="fMobi_OVI5674289206983" name="fMobi" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe1be1920" derviedlayoutid="qgn_menu_appsgrid_cxt" id="fMobi_Beta13219468809926" name="fMobi Beta" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005edcf" derviedlayoutid="qgn_menu_appsgrid_cxt" id="fChat25835424349583" name="fChat" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0003762" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fake_Caller" name="Fake Caller" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876015" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fake_Calls$37084472113913" name="Fake Calls" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876008" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fake_Messages$19328221489900" name="Fake Messages" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022085" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fake_Messages$4004106893054" name="FakeMessages" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b3e2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fast_Panel$29502995525786" name="Fast Panel" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034af5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FastTube15275735556696" name="FastTube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000327a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FExplore_Pro$19328221666120" name="FExplore Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026d3b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FingerPrint272240811141" name="FingerPrint" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876014" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FlashSMS894397254499" name="FlashSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876012" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Flash_SMS18744994069061" name="FlashSMS 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200421BF" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FlickrPix31099797917415" name="FlickrPix" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B3E5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FolderIcon15480939530015" name="FolderIcon" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008c16" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Font_Magnifier" name="Font Magnifier" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200399b7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Force_Control_Widget11296699969825" name="Force Control Widget" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e028" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Foreca$5296528254116" name="Foreca Weather Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e024" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ForecaWeather$4373926140885" name="ForecaWeather" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe9549533" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FountRouterMan$5296528209849" name="FountRouterMan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200218ef" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Free_iSMS$25419680513500" name="Free iSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20056776" derviedlayoutid="qgn_menu_appsgrid_cxt" id="iSMS10976829981245" name="Free iSMS v2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200218e9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="free_lunar$3004794110659" name="Free Lunar" previewscreen="Application Grid" show="true"/>
+<element appuid="0xed621c30" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Free_tones" name="Free Tones" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe3527aab" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FreeCallSprite" name="FreeCallSprite" previewscreen="Application Grid" show="true"/>
+<element appuid="0xeeba6780" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FreeSigner$9594664956940" name="FreeSigner" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe6faeaae" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FreeTime_box" name="FreeTime Box" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200218E8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Freetimebox$6389326164079" name="FreeTimeBox" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe9894b66" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FreeTimeSync" name="FreeTimeSync" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000df87" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Friend_View$9765395081125" name="Friend View" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007828" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Garmin_XT" name="Fring" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ae68" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FS_Message$5296528143609" name="FS Message" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ae69" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FS_Message_Service$9486898914918" name="FS Message Service" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000c5d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FSCaller" name="FSCaller" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000c5e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FSCaller_D" name="FSCaller D" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001c28" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_0" name="F-Secure" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20006e9c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Garmin_XT$5296528232090" name="Garmin XT" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000217d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GDESK" name="GDesk" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002F446" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gears$21824264567709" name="Gears" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030EDC" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Geeky_Avatar1147698481482" name="Geeky Avatar" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0cabf02" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GForce$8153932941197" name="GForce" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe49067ba" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gif_Tailor$36545373019727" name="Gif Tailor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000af8c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gismeteo$1649952573790" name="GisMeteo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101857f9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GMail" name="GMail" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101c261d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gmail$4208983528702" name="GMail 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b4d2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Go_To_Menu$29502995511158" name="Go To Menu" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030f54" derviedlayoutid="qgn_menu_appsgrid_cxt" id="G_Translate13174056884778" name="Google Translate" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007d87" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GPSAction$646659067076303" name="GPSAction" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200095d4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GPSCam$1556087323039" name="GPSCam" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004286b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GPSInfoQT30669016222821" name="GPSInfoQT" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe0d278f3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="gpsp$2525803722443" name="GPSP" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000be97" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gravity$1911820166422" name="Gravity" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200252fc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gravity_23603891608559" name="Gravity 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000ecb6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Gravity_Preview$34244291036264" name="Gravity Preview" previewscreen="Application Grid" show="true"/>
+<element appuid="0xc0de0011" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GribPatcher$9160803544069" name="GribPatcher" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ad20" derviedlayoutid="qgn_menu_appsgrid_cxt" id="gStorage$1330492199986" name="gStorage" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200123c3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GTX" name="GTX" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200131cc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Guardian" name="Guardian" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a4d4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="GZ_Ricette13404394946642" name="GZ Ricette" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10207217" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hack_It$29502995540754" name="Hack It" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001BF18" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handwriting_calculator$4200564870605" name="Handwriting Calculator" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004CAB" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Alarm$19328221330010" name="Handy Alarm" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004cb1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Alarm_Pro$5296528298030" name="Handy Alarm Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007E1E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Blacklist$19328221347700" name="Handy Blacklist" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000cec6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HandyCalc" name="Handy Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004ec1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Calendar$19328221365730" name="Handy Calendar" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200013a4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Clock$19328221383080" name="Handy Clock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007fab" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Converter$19328221285785" name="Handy Converter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001113" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Expense$19328221400770" name="Handy Expense" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004B2E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Keylock$19328221418460" name="Handy Keylock" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE3C27C43" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Paint$4157824646987" name="Handy Paint" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022322" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Phoneguard$2400310416571" name="Handy Phoneguard" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000A4B1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Profiles$19328221436490" name="Handy Profiles" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200034d6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Safe$19328221454180" name="Handy Safe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20019460" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Safe_PRO" name="Handy Safe Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20013b7b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Shell$5296528276083" name="Handy Shell" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001dc50" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Shopper$9486898929614" name="Handy Shopper" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004ebb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Taskman$15556220638053" name="Handy Taskman" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010e3e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Tools$9486898873628" name="Handy Tools" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000139F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Weather$19328221311639" name="Handy Weather" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000807E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HandyWi656562096892" name="HandyWi" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200029A9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Handy_Zip$19328221472210" name="Handy Zip" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200187e0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="happywakeup$7278503221219" name="HappyWakeUp" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20046ec1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HDR_Pro2021418413282" name="HDR Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003ab8e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HDR_Photo_Camera11296699906889" name="HDR Photo Camera" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10009D06" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Helix_Player$9261621028255" name="Helix Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe84bb912" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hello_Carbide" name="Hello Carbide" previewscreen="Application Grid" show="true"/>
+<element appuid="0xea9f483b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HelloOx2$10407878249889" name="HelloOx2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B3E0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hidden_Operator17830769971570" name="Hidden Operator" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a5d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hoops13984380900493" name="Hoops" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200090b8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hotmail_editor" name="Hotmail Editor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200090b9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Hotmail_viewer" name="Hotmail Viewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000291a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HourPower" name="HourPower" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004A8EB" derviedlayoutid="qgn_menu_appsgrid_cxt" id="iBomber_Defense7942671083682" name="iBomber Defense" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe6742bf3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ibook$2461213361876" name="iBook" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004A300" derviedlayoutid="qgn_menu_appsgrid_cxt" id="IconChanger15480939536478" name="IconChanger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101a77e7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ICQ" name="ICQ" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003AAE3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ICQ_Mobile15480939522871" name="ICQ Mobile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b86d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="IlMeteo346308792486" name="IlMeteo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0002285" derviedlayoutid="qgn_menu_appsgrid_cxt" id="IM_+" name="IMplus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200018ff" derviedlayoutid="qgn_menu_appsgrid_cxt" id="IMplus$2122983058486" name="IMplus 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001c63" derviedlayoutid="qgn_menu_appsgrid_cxt" id="IM+" name="IMplus for Skype" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe01f5467" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Image_converter" name="Image converter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a289" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Image_Exchange$304814602438447" name="Image Exchange" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101ffa91" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ImageEditor$4166383847428" name="ImageEditor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200387f0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Immobiliare11296700061336" name="Immobiliare" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20047717" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Impiccato1509885514291" name="Impiccato" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf6666666" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Install_server" name="Install Server" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026586" derviedlayoutid="qgn_menu_appsgrid_cxt" id="iONBattery$7496418136672" name="iONBattery" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0204044" derviedlayoutid="qgn_menu_appsgrid_cxt" id="iSilo$9594664595222" name="iSilo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200277b1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Jbak_Taskman$2628082240549" name="Jbak Taskman" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010b57" derviedlayoutid="qgn_menu_appsgrid_cxt" id="JoikuSpot" name="JoikuSpot" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010b5a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="JoikuSpot_Premium$13566005868963" name="JoikuSpot Premium" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005b021" derviedlayoutid="qgn_menu_appsgrid_cxt" id="JoikuSpot_201216803068963487" name="JoikuSpot 2012" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a0d9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Joikunews16803068969951" name="Joikunews" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe689d585" derviedlayoutid="qgn_menu_appsgrid_cxt" id="JulyPlayer7782658803994" name="JulyPlayer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xb0000bcc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="JukeBox$10399392461476" name="JukeBox" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101dd11c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Kamus_INDENG$8219684244226" name="Kamus IND ENG" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE1BEAB81" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Kasvopus33111571732169" name="Kasvopus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200112c3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Kaspersky" name="Kaspersky" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001cfc5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Kaspersky8$322165496842686" name="Kaspersky 8" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe887600f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Key_Lock_Clock$14179248407688" name="Key Lock Clock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200241ad" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Keylock$14179248355447" name="Keylock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003cfb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Keypad_Lock" name="Keypad Lock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000d945" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Killer_Mobile_Blackballer" name="Killer Mobile Blackballer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xeafe014c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="KillMe$9594665022987" name="KillMe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028dde" derviedlayoutid="qgn_menu_appsgrid_cxt" id="KMS90$12065173052119" name="KMS90" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002031" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Kodak" name="Kodak" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf000a604" derviedlayoutid="qgn_menu_appsgrid_cxt" id="kugou$3004794076863" name="KuGou" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005EBAE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="La_Repubblica_Mobile16803068933551" name="La Repubblica Mobile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026AD3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Labyrinth$6389326174974" name="Labyrinth" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200388ae" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Labyrinth_3D$3402212715015" name="Labyrinth 3D" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0006d8b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Labyrinth2$7496418042194" name="Labyrinth 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20013756" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LandScape_PRO" name="LandScape PRO" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002426b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Landscape_pro_V3$8367090817485" name="Landscape PRO V3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000bcc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LCG_Jukebox" name="LCG Jukebox" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20044744" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LeStartStop32790087606450" name="LeStartStop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b2cb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Lets_Golf_22766421597673" name="Lets Golf 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10208ac2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Lett_codice_barre" name="Lett Codice Barre" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe2d092f5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Light_CTRL" name="Light CTRL" previewscreen="Application Grid" show="true"/>
+<element appuid="0xaa7d4045" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LightSignalPlus$1081228997540" name="LightSignalPlus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000FEDB" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LinjaCalculator$2665995861485" name="LinjaCalculator" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008d9a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Live_Messenger$9594664386466" name="Live Messenger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x102750e5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LiveTV$490325539243520" name="LiveTV" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b54b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LiveTV2$98241496982437" name="LiveTV 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000f5ca" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Location_Tagger" name="Location Tagger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042340" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LockScreen_Button8276115416528" name="LockScreen Button" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012508" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Loud_Speaker9626891192166" name="Loud Speaker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000dad9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Lunar_Phase_Calender22156149461257" name="Lunar Phase Calender" previewscreen="Application Grid" show="true"/>
+<element appuid="0xF0232385" derviedlayoutid="qgn_menu_appsgrid_cxt" id="LyricMaker$8219684271045" name="LyricMaker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200387fa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Magic_Ball$1249030593419" name="Magic Ball" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b2e0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Magnify22156149443227" name="Magnify" previewscreen="Application Grid" show="true"/>
+<element appuid="0xfca000ab" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Map_Drives$44657813706132" name="Map Drives" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001d364" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Marble_Maze$15135680817175" name="Marble Maze" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002EAE0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Marble_Mazes2$48626197318227" name="Marble Mazes 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xAFFFDABC" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MarbleMaze" name="MarbleMaze" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002F402" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MathsBrain$21824264596694" name="MathsBrain" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003d37c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MazeLock$5514605825535" name="MazeLock" previewscreen="Application Grid" show="true"/>
+<element appuid="0xfff11111" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MBM_Tool$643060012760280" name="MBM Tool" previewscreen="Application Grid" show="true"/>
+<element appuid="0xfff11112" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mbm_Tool$9486898789649" name="MBM Tool 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0003ADE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MBOOK$23435955681797" name="MBook" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000eed1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mcleaner" name="mCleaner" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0007658" derviedlayoutid="qgn_menu_appsgrid_cxt" id="mConnection" name="mConnection" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa70bf1c1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Media_Safe" name="Media Safe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1028290b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Media_sync$5424009781131" name="Media Sync" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0003c64" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MemCheck" name="MemCheck" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1017d7e2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MemoryUp" name="MemoryUp" previewscreen="Application Grid" show="true"/>
+<element appuid="0xef460b1c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Menu_Editor" name="Menu Editor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10201A7A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Merriam-Webster_Dictionary" name="Merriam-Webster Dictionary" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000226B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Merriam-Webster_Dictionary2" name="Merriam-Webster Dictionary 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007891" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Message_Tones" name="Message Tones" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fe60" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_23" name="MessageStorer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008daa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Messenger$12226062569972" name="Messenger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028039" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Metal_Detector30669016216357" name="Metal Detector" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200234d0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MicroMaze$2735307587580" name="MicroMaze" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008ffa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MicroPool$4650479916966" name="MicroPool" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002DBDF" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Microsoft_Silverlight31626438395836" name="Microsoft Silverlight" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002DBDE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Microsoft_Silverlight_21400249195362" name="Microsoft Silverlight 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002511B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Midomi_Trial$21824264612093" name="Midomi Trial" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002fb01" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MIF_Editor1400249231762" name="MIF Editor" previewscreen="Application Grid" show="true"/>
+<element appuid="0xF0120101" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MIF_Manager31626438405021" name="MIF Manager" previewscreen="Application Grid" show="true"/>
+<element appuid="0x7a44b1ea" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MIF_Manager_21400249218495" name="MIF Manager 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf9001985" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MIF_Viewer$169974492392648" name="MIF Viewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200041d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="mlock" name="mLock" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0007648" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobbler_(webRadio)" name="Mobbler" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20038513" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobbler_225268174569851" name="Mobbler 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001181" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobi_Tubia" name="Mobi Tubia" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002D100" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobi_Xplorer656562091109" name="Mobi Xplorer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0006dc0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MobiCHM$9594665039851" name="MobiCHM" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00005b5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobile_Office_reader$8740023826944" name="Mobile Office Reader" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA000A332" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobile_Paint$17257762639106" name="Mobile Paint" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA00017E8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_1" name="Mobile Task" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0000C98" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobile_Weather" name="Mobile Weather" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007e60" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobile_Web_Server" name="Mobile Web Server" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101abbc0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MobileRar" name="MobileRar" previewscreen="Application Grid" show="true"/>
+<element appuid="0xec696702" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MobileSigner" name="MobileSigner" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0005346" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MobilHex$8367090810851" name="MobilHex" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b6e6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mobiloa_WebCam_3" name="Mobiloa WebCam 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000d45" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_18" name="MobiReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B045" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MobWebMail6368080260489" name="MobWebMail" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEF6CF8D3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Modo" name="Modo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xabc88a78" derviedlayoutid="qgn_menu_appsgrid_cxt" id="moji_weather$18429482891283" name="Moji Weather" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b2d9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Monopoly$3402212790198" name="Monopoly HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b2d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Monopoly_HD_216369170363029" name="Monopoly HD 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200423ba" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Monster_Pinball$3402212800403" name="Monster Pinball" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200307ea" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MoodAgent29038275159625" name="MoodAgent" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200626B5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MoonCalc31575381518155" name="MoonCalc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028c71" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Moove9626891209516" name="Moove" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041f85" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mp3Cut7782658755006" name="Mp3Cut" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf1a2a3a5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mp3_Editor" name="Mp3 Editor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001106d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MSDict_Viewer" name="MSDict Viewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00033ae" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_22" name="Msg Mirror" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200184f5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Msg_Mirror_2" name="Msg Mirror 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20006D90" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MSN_2$1556087170785" name="MSN" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000ca77" derviedlayoutid="qgn_menu_appsgrid_cxt" id="mumsms3$7278503275416" name="MumSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036d13" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MusicStopper$2457492298182" name="MusicStopper" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe7138563" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Music_Stopper_2$49294686334563" name="Music Stopper 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe77c6d1f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MusicStop16440758931672" name="MusicStop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004b2de" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MusicStop_23091209917466" name="MusicStop 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005FC7E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="MusicStop_36248537412515" name="MusicStop 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036b46" derviedlayoutid="qgn_menu_appsgrid_cxt" id="My_19019085443980199" name="My 190" previewscreen="Application Grid" show="true"/>
+<element appuid="0xefa13579" derviedlayoutid="qgn_menu_appsgrid_cxt" id="My_Alarms" name="My Alarms" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200393cc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="myExplorer9310149888025" name="myExplorer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xef8dc301" derviedlayoutid="qgn_menu_appsgrid_cxt" id="My_keylock$6176881201921" name="My Keylock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000460c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mylook" name="MyLook" previewscreen="Application Grid" show="true"/>
+<element appuid="0xed672077" derviedlayoutid="qgn_menu_appsgrid_cxt" id="nAlertMe" name="nAlertMe" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA00013EE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nasms" name="NaSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe164900d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Navi_Machine894397271849" name="Navi Machine" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030EF5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NDesk$35774674923552" name="NDesk" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002d24c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="nDrive$9874236400976" name="nDrive" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B884" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Neon_Mania1147698491687" name="Neon Mania" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e133" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NeoReader4948294820822" name="NeoReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000284a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="News_click" name="News Click" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000899b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NICE_LIGHT" name="Nice Light" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008998" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NiceAlarm" name="NiceAlarm" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200387fb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Night_Light_Free8019549926332" name="Night Light Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200387fc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NightLight_Pro11296699941589" name="Night Light Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b080" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nimbuzz$15556220661458" name="Nimbuzz" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003723a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Noise_AutoFix22156149391518" name="Noise AutoFix" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a867" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Car_Mode30357964518588" name="Nokia Car Mode" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002e6ce" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Drop23035139148521" name="Nokia Drop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035d45" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NokiaPlay4847394824495" name="Nokia Play" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003a91a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Play_To$15698894322617" name="Nokia Play To" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200212ac" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Situations11296700068480" name="Nokia Situations" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003507e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sleeping_Screen$15722616864903" name="Nokia Sleeping Screen" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002ff75" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nokia_Wellness_Diary15241697397654" name="Nokia Wellness Diary" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200389aa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Note_it9626891198289" name="Note It" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001746" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NSysINFO" name="NSysINFO" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001041" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Ntorch_Lite" name="Ntorch Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20006F6D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Nuance_Talks" name="Nuance Talks" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e698" derviedlayoutid="qgn_menu_appsgrid_cxt" id="nUnlock$5296528045491" name="nUnlock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200389AB" derviedlayoutid="qgn_menu_appsgrid_cxt" id="N8_Cam_Pro33111571720942" name="N8 Cam Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002EE4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Office_Suite" name="Office Suite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002EE59" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Opera_Beta_519504373769958" name="Opera Mini" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001683d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="OpLogo_Changer$270659672493757" name="OpLogo Changer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xea952b93" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Own_Voice$9132954601632" name="Own Voice" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b776" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Oxford$9362446557872" name="Oxford" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000B776" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Oxford2$4157824636092" name="Oxford 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200617f7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PagineBianche1054470303394" name="PagineBianche" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200309d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Pagine_Gialle$14118551334384" name="Pagine Gialle" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20021c65" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Paint_Pad$3260110480801" name="Paint Pad" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001e751" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Palringo$85454549531308" name="Palringo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xec370761" derviedlayoutid="qgn_menu_appsgrid_cxt" id="panda_reader$3004794093932" name="Panda Reader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030885" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Pano_Wallpaper$29502995554362" name="Pano Wallpaper" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000d942" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PanoMan" name="Pano Man" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000f018" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Pano_Man33224082016022" name="Pano Man 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001230" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Papyrus" name="Papyrus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000B85" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PDF_plus$607710393667" name="PDFplus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000b84" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PDF_View$13085057687184" name="PDF View" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007D78" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Phone_Guardian" name="Phone Guardian" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010613" derviedlayoutid="qgn_menu_appsgrid_cxt" id="phone_lock$1697491818841" name="Phone Lock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003be5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Phone_pilot" name="Phone Pilot" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e319" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_27" name="Phone Shortcut" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000d1f1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoneLocator" name="PhoneLocator" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe0005c36" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoNet_Info" name="PhoNet Info" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008762" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Phonetinfo" name="PhoNet Info 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20045191" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoNetInfo_311296700074263" name="PhoNet Info 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xeb2a4ac6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoneTorch$3260110491975" name="PhoneTorch" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE002E145" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoneTorch2$4157824616536" name="PhoneTorch 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002E145" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Phone_Torch16088082233526" name="PhoneTorch 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000284b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhoneWallet$19328221507250" name="PhoneWallet" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0002651" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhotoArt" name="PhotoArt" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000b86a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Photobook4$11147677516896" name="PhotoBook4" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002134f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Photo_Browser$14527047656883" name="Photo Browser" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036d9d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Photo_Browser_27636484027159" name="Photo Browser 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0002650" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Photo_Card" name="Photo Card" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ec7e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhotoFlow$9486898887625" name="PhotoFlow" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012506" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Photo_Fun$169974492340953" name="Photo Fun" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005f05c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhotoFunia11696296182923" name="PhotoFunia" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200008b1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhotoRite" name="PhotoRite SP 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004202c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PianoTeacher11814003826146" name="PianoTeacher" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0200c8e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="picture_browser$5553531979310" name="Picture Browser" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B436" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PocketBooth$29502995547558" name="PocketBooth" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002DC4A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Pocket_Sensor656562113902" name="Pocket Sensor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200288e8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="POP_SMS18637005749615" name="POP SMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe9cc667c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Power23840654627929" name="Power" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001a704" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Power_MP3$25798777425684" name="PowerMP3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA000CEF2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PowerMP3$17257762666763" name="PowerMP3 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008a14" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PowerBoot" name="PowerBoot" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEEE98766" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PowerKey31575381523258" name="PowerKey" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e925" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PowerMovie$9594665104808" name="PowerMovie" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003883b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PrezziBenzina15989952225534" name="PrezziBenzina" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20201f4d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Profiler" name="Profiler" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000b6a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Profimail" name="ProfiMail" previewscreen="Application Grid" show="true"/>
+<element appuid="0x68659898" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ProfundiyClean31575381513733" name="ProfundiyClean" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1018197b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Pronto_Treno$169974492350166" name="Pronto Treno" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012910" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_Connect" name="Psiloc Connect" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008c0b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_DemoStand" name="Psiloc DemoStand" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001bd7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_Extended_Recorder" name="Psiloc Extended Recorder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008c11" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_GSync" name="Psiloc GSync" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008c0f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_PhoneGuard" name="Psiloc PhoneGuard" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008c07" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_Photo_Tagger" name="Psiloc Photo Tagger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000115" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_Wireless_Presenter" name="Psiloc Wireless Presenter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001E1AE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Psiloc_World_Traveler$4200564899309" name="Psiloc World Traveler" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b1a5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Python$18343227108386" name="Python" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022eed" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Python_v2$13241159381473" name="Python v2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe7a352c9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PyTransitions$3705693639554" name="PyTransitions" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe23adf22" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QCal13984380935873" name="QCal" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e91f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QCal_Free3525565046141" name="QCal Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e91d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QCal_Pro31339346168644" name="QCal Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005e920" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Qcal_Swipe16803068956684" name="Qcal Swipe" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200399dd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="qooClock22206516700793" name="qooClock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x15720220" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QQ_browser$3661523637150" name="QQ Browser" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000c49" derviedlayoutid="qgn_menu_appsgrid_cxt" id="qreader" name="QReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030737" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QTorch$4874421639977" name="QTorch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200387bf" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QTorch_215275735543088" name="QTorch 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b11b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QT_Shell7782658779500" name="QT Shell" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20021317" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QTViewer$35774674954348" name="QTViewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe2d6119e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QT_Sensor_Gallery8276115439661" name="QT Sensor Gallery" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036f81" derviedlayoutid="qgn_menu_appsgrid_cxt" id="quickBT2030625939824" name="quickBT" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030799" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QuickLock894397277292" name="QuickLock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004ffe" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QuickMark1400249225298" name="QuickMark" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20031012" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QuickPanorama22156149425197" name="QuickPanorama" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b9a1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Reboot" name="Reboot" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200650f4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QuickRestart24023161858554" name="QuickRestart" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000cf26" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RaceChrono" name="RaceChrono" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002A13D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Raging_Thunder$21824264658741" name="Raging Thunder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20040a4e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RainbowBrush22156149434722" name="RainbowBrush Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004771b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Rainbow_Brush_230357964475383" name="RainbowBrush" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e46" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Rally_Master_Pro$14118551349352" name="Rally Master Pro HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA000A5C1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RAMBlow$19328221612710" name="RAMBlow" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003071C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RamBlowPro656562084986" name="RamBlowPro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036eac" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Reboot_225835424372036" name="Reboot 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200396C8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Red_Light15480939543282" name="Red Light" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200050BF" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Remind_Me$19328221648090" name="Remind Me" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0239177" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Remove_PAlbTN$2646430523991" name="Remove PAlbTN" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA000B313" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Resco_Bubbles$6389326207660" name="Resco Bubbles" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0208dcb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Resco_News" name="Resco News" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000737e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Resco_Viewer$7063548505526" name="Resco Viewer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xead30a64" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Restart$5296528188006" name="Restart" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20025e58" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RingtoneMaker$9362446517085" name="RingtoneMaker" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe6ac9d89" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RomPatcher3$8648869272002" name="RomPatcher3" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe0050c10" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RomPatcherPlus$18070785559469" name="RomPatcherPlus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003259d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RTL_102_51058758789331" name="RTL 102 5" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe12bba46" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Run_player$6466080319275" name="Run Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00006dd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="S60SpotOn" name="S60SpotOn" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000a855" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SafeDepositBox$2122983092778" name="SafeDepositBox" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004BA30" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sahih_Muslim31575381497403" name="Sahih Muslim" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002448d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Scalado_AB_Autorama$19328221542970" name="Scalado AB Autorama" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEE676204" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Scientific_Calc$21824264675045" name="Scientific Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200476cd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Scopa8778779992794" name="Scopa" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022849" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Screen_Locker$35774674961142" name="Screen Locker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000555" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Screenshot2$237451406812" name="ScreenShot" previewscreen="Application Grid" show="true"/>
+<element appuid="0xfe503103" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SecMan" name="SecMan" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026AD2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Seismograph_Touch33513485990309" name="Seismograph Touch" previewscreen="Application Grid" show="true"/>
+<element appuid="0xefb3c8d8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Shake_Me" name="Shake Me" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010fd8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Shake_SMS" name="Shake SMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030280" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Shazam_5th$16662024308299" name="Shazam 5th" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101af55b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="shMessenger$2400310459961" name="ShMessenger" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20014fcb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Shozu" name="Shozu" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005eff7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Simple_Timer_Plus8180919360803" name="Simple Timer Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0xef27b0f5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SIS_Editor7782658785964" name="SIS Editor" previewscreen="Application Grid" show="true"/>
+<element appuid="0xaaabbbba" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sistail$9362446578266" name="SisTail" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002dad1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Skebby1999170591539" name="Skebby" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200667F4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SkyFiles1295401946446" name="SkyFiles" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200345e4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SkiInfo13404394923509" name="SkiInfo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0002097" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sky_Fire" name="SkyFire" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ffa4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SkyFire$12452216585348" name="SkyFire 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20025178" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SkyForce$21824264705389" name="SkyForce" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002517B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SkyForceReloaded$21824264720335" name="SkyForceReloaded" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b474" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Slice_It$4105197686281" name="Slice It" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0000BCF" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Slick" name="Slick" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035af1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SlideAnswer1999170580652" name="SlideAnswer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035af0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SlideUnlock$1696183301236" name="SlideUnlock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028b06" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SlideUnlock$29502995561846" name="SlideUnlock 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001A58" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SlovoED$17257762694420" name="SlovoED" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028960" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smart_Remover$12597932130759" name="Smart Remover" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001c3b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smart_setting_v1$16818114185766" name="Smart Settings" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001228e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smart_settings_v2" name="Smart Settings v2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002a77" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartConnect$10568802110324" name="SmartConnect" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20040CBD" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartEQ31097081425044" name="SmartEQ" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00031e1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartGuard" name="SmartGuard" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa5871628" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smartlight" name="SmartLight" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002d37a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartLight_211296699935805" name="SmartLight 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000b68" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smartmovie" name="SmartMovie" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe000b868" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartMovie2$9594665347416" name="SmartMovie 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000b868" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartMovie3$9594665363831" name="SmartMovie 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012551" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smartphoneware_Blacklist" name="Smartphoneware Blacklist" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20007e08" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmartProfile" name="SmartProfile" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000add" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smartsis$646659067125571" name="SmartSis" previewscreen="Application Grid" show="true"/>
+<element appuid="0xeabb3012" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_and_MMS_Diary" name="SMS And MMS Diary" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE1616A13" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Contact17830769982116" name="SMS Contact" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000ab6c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Export" name="SMS Export" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20014530" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Forwarder" name="SMS Forwarder" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000459d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="sms_lock$2382014552057" name="SMS Lock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008a70" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Scheduler" name="SMS Scheduler" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA00024F1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="smsscheduler" name="SMS Scheduler 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000013F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Spam_Manager" name="SMS Spam Manager" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001c902" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Timer" name="SMS Timer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000459e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMS_Wizard" name="SMS Wizard" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001501" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmsChat" name="SmsChat" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00029da" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmsOne" name="SmsOne" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000244d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SmsTalk" name="SmsTalk" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027B72" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMSThreader$3214513017715" name="SMSThreader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001C900" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SMSTimer$2665995848355" name="SMSTimer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008de3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Social_Player" name="Social Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003737d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Solitaire$3402212748014" name="Solitaire" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf02078a7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Solution$3445016209322" name="Solution" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200300e2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sound_Buttons$2735307597445" name="Sound Buttons" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037360" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SoundHound272240833934" name="SoundHound" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030f70" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sparkle1416687666203" name="Sparkle HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028b16" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Spb_SHELL$3677738430163" name="SPB Shell" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028B25" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SPB_Time656562102336" name="SPB Time" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001fb6a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SPB_Tv$14527047668585" name="SPB Tv" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001fb63" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SPBWallet$8153933000423" name="SPB Wallet" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001fb65" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SPB_Weather$858327861334" name="SPB Weather" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042D1D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SPB_Wireless_Monitor656562131592" name="SPB Wireless Monitor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026924" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Speedometer$6904370913009" name="Speedometer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20039877" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Speedometer_28019549920208" name="Speedometer 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041F28" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Speedtest15480939550086" name="Speedtest" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000a5bf" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SpeedyGo$4549979380114" name="SpeedyGo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035DFE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Spiderman_HD1147698500532" name="Spiderman HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001baa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Splash_ID" name="Splash ID" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe4935e8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sports_Tracker_21058758760415" name="Sport Tracker 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe373a8b2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Start_Backup7782658791747" name="Start Backup" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003B03D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Stellarium1147698509377" name="Stellarium" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000e26c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Step_Counter$12226062575415" name="Step Counter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026adf" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sticky_Notes$858327904879" name="Sticky Notes" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20009f57" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Stopwatch$1046023290669" name="StopWatch" previewscreen="Application Grid" show="true"/>
+<element appuid="0xfe009f57" derviedlayoutid="qgn_menu_appsgrid_cxt" id="StopWatch_plus" name="StopWatch Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004A8EA" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Storm_In_Teacup1147698518222" name="Storm In Teacup" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00045d4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Super_Screenshot$2735307570230" name="Super ScreenShot" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002B98D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SuperScreenshot9504373853742" name="Super ScreenShot 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035d95" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Swiss_Manager_Pro656562061512" name="Swiss Manager Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200333f8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Swype_Sett1999170551396" name="Swype Settings" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004423b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SwipeUnlock30790489575611" name="SwipeUnlock" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001b368" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Switch_Off$13755750451621" name="Switch Off" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000b2d1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sygic$14527047680904" name="Sygic Mobile Maps" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001f7ae" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sygic_Aura7511072216678" name="Sygic Aura" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20042dd6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Sygic_Installer_EU7511072240492" name="Sygic Installer EU" previewscreen="Application Grid" show="true"/>
+<element appuid="0x21092008" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SymCleanup$8153933064956" name="SymCleanup" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a800" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SymDVR9390242855067" name="SymDVR" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002043" derviedlayoutid="qgn_menu_appsgrid_cxt" id="symsmb" name="SymSMB" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001751" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Symtorrent" name="SymTorrent" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001755" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SymTorrentLaunch$10222387396163" name="SymTorrent Launch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000b02" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SymVPN_1$5424009800407" name="SymVPN" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002298a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="System_Status$14179248342456" name="System Status" previewscreen="Application Grid" show="true"/>
+<element appuid="0xffa5342b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Take_The_Music$8153933054340" name="Take The Music" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20003B42" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Talking_Dictionary_2$1815434305826" name="Talking Dictionary" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200476cb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tarocchi19085444005033" name="Tarocchi" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000713a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Task_spy" name="Task Spy" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001ae70" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Taskman$5296528429697" name="Taskman" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20013b87" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Taskman_lite$1330492228481" name="Taskman Lite" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10201d2a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tast._wireless" name="Tast. Wireless" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101f8f3c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Team_suite" name="Team Suite" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0000a97" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Televideo" name="Televideo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe7c3003e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Televideo_21058758806681" name="Televideo 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20023dc0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Television$9362446435790" name="Television" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b2dc" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tetris$3402212736447" name="Tetris HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0xef960c16" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Teksti_TV9310149862511" name="Teksti TV" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e44" derviedlayoutid="qgn_menu_appsgrid_cxt" id="The_Sims_3$14118551341868" name="The Sims 3 HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20004a20" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Theme_DIY" name="Theme DIY" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe62a9968" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Theme_Magic" name="Theme Magic" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf0000002" derviedlayoutid="qgn_menu_appsgrid_cxt" id="theme_renamer$646659067087162" name="Theme Renamer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876002" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Theme_Scheduler$646659067114696" name="Theme Scheduler" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEE028A11" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ThemeEditor$2665995834666" name="ThemeEditor" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000332c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ThemesLauncher$15135680771930" name="ThemesLauncher" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003d37a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Think_Flash9626891203732" name="Think Flash" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20025a61" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ThreadSMS$19328221560660" name="ThreadSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200308f7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tic_Tac_Toe_Blue8019549913404" name="Tic Tac Toe Blue" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002AB94" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TieMaster$48626197334078" name="TieMaster" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe4f2fdde" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Time_Machine$5296528165895" name="Time Machine" previewscreen="Application Grid" show="true"/>
+<element appuid="0xAF109151" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Time_machine$4200564885551" name="Time Machine 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002692c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Timer9310149896190" name="Timer" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0001c0b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_20" name="TimeBar" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003875b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Timer_QT33513485954588" name="Timer QT" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005CCA8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TopGear_News20454690577106" name="TopGear News" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001c5ed" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TOTAL_PATROL" name="Total Patrol" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001159d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Total_Recall" name="Total Recall" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10137CFD" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Touch_Calc$17257762722357" name="Touch Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0xecfe1b24" derviedlayoutid="qgn_menu_appsgrid_cxt" id="touch_restart$6176881135239" name="Touch Restart" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200347e6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Traductor30357964509062" name="Traductor" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200476ce" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tressette8314779712477" name="Tressette" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a253" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Trova_Farmacie1999170603105" name="Trova Farmacie" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a254" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TrovaRistoranti13404394959229" name="Trova Ristoranti" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026666" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TTpod$5296528319733" name="TTpod" previewscreen="Application Grid" show="true"/>
+<element appuid="0xf51859f7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Ttpod$12452216527798" name="TTpod 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20041287" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TuneWiki_SMP1147698527067" name="TuneWiki SMP" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe9066a16" derviedlayoutid="qgn_menu_appsgrid_cxt" id="TweakS24364927882902" name="TweakS" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005E90A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tweetian2138161594695" name="Tweetian" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034cc4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tweeties2236145181630" name="Tweeties" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200606be" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tweeties_29031286792689" name="Tweeties 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034cc5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tweeties_Free39914952863049" name="Tweeties Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001e908" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tweets60$4004106929023" name="Tweets60" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002c577" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UC_Browser10$11147677495253" name="UC Browser 10" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200277c2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UC_Player$11147677522831" name="UC Player" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000138a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Ultimate_Voice_REC" name="Ultimate Voice REC" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20001392" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UltimateSMS$9362446456463" name="UltimateSMS" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEA6BD0FF" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UMU_Hack7682288475833" name="UMU Hack" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20002EC6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UniDic_Nokia" name="UniDic Nokia" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027C15" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UniDictUr$2665995806729" name="UniDictUr" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003097C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Uninstall_King656562119685" name="Uninstall King" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000459f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Uninstall_Tools" name="Uninstall Tools" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101cd26c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UNO$7496418014900" name="UNO HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20035e07" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Uno_HD_216369170386503" name="Uno HD 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036B7C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Uno_HD_3" name="Uno HD 3" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000c83e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="UpCode$29502995533610" name="UpCode" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20039824" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Urban_Fatburner1147698535912" name="Urban Fatburner" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20010f58" derviedlayoutid="qgn_menu_appsgrid_cxt" id="vBag$646659067092547" name="vBag" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa0006bf1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="vBoy$646659067098199" name="vBoy" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004bd3d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Velocimeter19575141292807" name="Velocimeter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200078be" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Very_Nice_Calc" name="Very Nice Calc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002ce93" derviedlayoutid="qgn_menu_appsgrid_cxt" id="vHome7782658797530" name="vHome" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002c3f4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="vHome_29267309315764" name="vHome 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200143da" derviedlayoutid="qgn_menu_appsgrid_cxt" id="VibrateCall$5296528076777" name="VibrateCall" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002F4A2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="VideoCuts$2702610955582" name="VideoCuts" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20047740" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Video_Mediaset1999170586096" name="Video Mediaset" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037e3d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Virgin_Radio1058758783208" name="Virgin Radio" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200239a0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="VirtualKeyboard$2973452618978" name="VirtualKeyboard" previewscreen="Application Grid" show="true"/>
+<element appuid="0x10281CB9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Visual_Radio_6220$46786624450836" name="Visual Radio" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001f632" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Vlingo$37084472151628" name="Vlingo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002ca0b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="vMenu$10407878195971" name="vMenu" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002dd77" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Vodafone_Shop11296699987174" name="Vodafone Shop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200424e5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Volagratis11296699975608" name="Volagratis" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030954" derviedlayoutid="qgn_menu_appsgrid_cxt" id="VoMo$1141217756347" name="VoMo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001B6DA" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Vtap$4200564982630" name="Vtap" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002803c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Wall_Calendar$5296528121692" name="Wall Calendar" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200254ad" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Wave_Secure$8938353456746" name="Wave Secure" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2001eb29" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Waze11296699930022" name="Waze" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20036efa" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WeatherHD2766421620806" name="WeatherHD" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000bae3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Webcam3$9362446496970" name="Webcam" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000013e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WebGate_voice_inbox" name="WebGate voice inbox" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20011003" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Wefi" name="Wefi" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000049a" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WibCapture" name="WibCapture" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe60b8a79" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Widgetizer$5296528341819" name="Widgetizer" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2F0F120F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Widgetizer2$6389326218555" name="Widgetizer 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20012449" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WildSets$3095783064343" name="WildSets" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20008d9d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WLSignIN" name="WLSignIN" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20000129" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_25" name="WorldMate" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20044de9" derviedlayoutid="qgn_menu_appsgrid_cxt" id="World_Of_Rabbit474665164597" name="World Of Rabbit" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002b2df" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Worms$3402212769106" name="Worms HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004a1a3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WP7Green11296699947032" name="WP7Green" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000289e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WWIGO" name="WWIGO" previewscreen="Application Grid" show="true"/>
+<element appuid="0xFE280313" derviedlayoutid="qgn_menu_appsgrid_cxt" id="X_Clear656562125469" name="X Clear" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030de3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Xplore_2$9762808374844" name="Xplore 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEDFAC657" derviedlayoutid="qgn_menu_appsgrid_cxt" id="XpressAlarm$4200564954833" name="XpressAlarm" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEC715B18" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Xpressnote$17257762749734" name="XpressNote" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000017f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="X-Sound" name="X Sound" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe8876001" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Y-Alarms_2" name="Y Alarms" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA00007A6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Y_Browser$607710349782" name="Y Browser" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa000257b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Y-Tasks" name="Y Tasks" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101ec84d" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTUBE" name="YouTube" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000fbba" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTube$16442151740861" name="YouTube 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200396cd" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTube_Downloader$15698894308669" name="YouTube Downloader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003AE06" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTube_Downloader_Pro17830769987559" name="YouTube Downloader Pro" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200606af" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTube_HD25071183900029" name="YouTube HD" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005cbb2" derviedlayoutid="qgn_menu_appsgrid_cxt" id="YouTubeHD_Plus25071183933368" name="YouTubeHD Plus" previewscreen="Application Grid" show="true"/>
+<element appuid="0xa00021d7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Custom_Icon_26" name="Zanichelli" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2000077b" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Zanichelli_21058758800898" name="Zanichelli 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002bf1c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Zippo$4549979410731" name="Zippo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe993e25c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ZXReader$2436650690554" name="ZXReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200568F4" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WOR_Dusk_Fight1318591570314" name="WOR Dusk Fight" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20071D89" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Situations_23524007558979" name="Situations 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20040987" derviedlayoutid="qgn_menu_appsgrid_cxt" id="echoecho6809012443678" name="echoecho" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006c028" derviedlayoutid="qgn_menu_appsgrid_cxt" id="S3dict6809012468115" name="S3dict" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005ed15" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ionic6809012472466" name="ionic" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE71CBB8D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cuteRadio1967232815297" name="cuteRadio" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA89FC85B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Dorian1967232840738" name="Dorian" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2005E961" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Vimeo2293982352003" name="Vimeo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20061751" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Clipbook2574619596640" name="Clipbook" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200618F6" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Checklist2574619606682" name="Checklist" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE2A2FE74" derviedlayoutid="qgn_menu_appsgrid_cxt" id="QNotes3185667768773" name="QNotes" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004707D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SketchIt3969569659707" name="SketchIt" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20049F95" derviedlayoutid="qgn_menu_appsgrid_cxt" id="gNewsReader4510924803535" name="gNewsReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2004BC0B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HP_Eprint4510924812573" name="HP Eprint" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20029E1A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="HP_iPrint_Photo4510924816925" name="HP iPrint Photo" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE144350F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WeatherMango4510924821611" name="WeatherMango" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002A428" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Snapfish4510924826298" name="Snapfish" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE11DCC9D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FilesPlus4510924830315" name="FilesPlus" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE7BA3C4B" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CountIt4510924833997" name="CountIt" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE1AEB249" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Smooze4510924838349" name="Smooze" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE22AC278" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Lightbulb4510924842701" name="Lightbulb" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEC338740" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Tessera568988393879" name="Tessera" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE40FD623" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Cyklop568988418315" name="Cyklop" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006C2F0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Easy_Stopwatch568988424341" name="Easy Stopwatch" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006C2F8" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BigClock568988430032" name="BigClock" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE87CC83C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FBReader568988435388" name="FBReader" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003AD0A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Memories2665059561417" name="Memories" previewscreen="Application Grid" show="true"/>
+<element appuid="0x200345DD" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NFC_Launcher3129156747249" name="NFC Launcher" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003E06F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="NFC_Branding3129156772021" name="NFC Branding" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002433D" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Connectivity_Analyser3129156776707" name="Connectivity Analyser" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034884" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Qt_AppBooster3129156780724" name="Qt AppBooster" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE39770c0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WinRAR3129156803822" name="WinRAR" previewscreen="Application Grid" show="true"/>
+<element appuid="0x1010FA1F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CityBloxx3129156808174" name="CityBloxx" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20046EA7" derviedlayoutid="qgn_menu_appsgrid_cxt" id="E_numbers3129156812191" name="E numbers" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20064E45" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FilesPlus_23129156815873" name="FilesPlus 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE521C4D3" derviedlayoutid="qgn_menu_appsgrid_cxt" id="20484242035241463" name="2048" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE1D4B562" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Qeddit4242035268243" name="Qeddit" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006d33f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Magarmuchh4242035273264" name="Magarmuchh" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE692505E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="WA_Scheduler4242035277281" name="WA Scheduler" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006C519" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Rubi_Box4242035280629" name="Rubi Box" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2006F07E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="ERBook4242035283976" name="ERBook" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE3AB5F18" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PhotProc4242035287324" name="PhotProc" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20061417" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Social_Placees4242035291675" name="Social Placees" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEA3B5F81" derviedlayoutid="qgn_menu_appsgrid_cxt" id="PureFix4242035295358" name="PureFix" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA1331007" derviedlayoutid="qgn_menu_appsgrid_cxt" id="2048_24242035298705" name="2048 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE6E7A694" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Blob_24242035302053" name="Blob 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEF642F0F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mirror_House4242035305400" name="Mirror House" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20071509" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Puzzle_Stones_24242035309082" name="Puzzle Stones 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA1331002" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AppList4242035312765" name="AppList" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003091A" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Metropolitane4242035316447" name="Metropolitane" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA07856EE" derviedlayoutid="qgn_menu_appsgrid_cxt" id="FastTube_24242035319794" name="FastTube 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xEC81968C" derviedlayoutid="qgn_menu_appsgrid_cxt" id="gestulator4242035327494" name="gestulator" previewscreen="Application Grid" show="true"/>
+<element appuid="0xE561674E" derviedlayoutid="qgn_menu_appsgrid_cxt" id="cuteTube_25278272379954" name="cuteTube 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026750" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Altimeter1058444368307" name="Altimeter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027aef" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Anglemeter1058444393078" name="Anglemeter" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20030e54" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Angry_Birds_Free1058444398100" name="Angry Birds Free" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b220" derviedlayoutid="qgn_menu_appsgrid_cxt" id="AB_Rio1058444402451" name="AB Rio" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a096" derviedlayoutid="qgn_menu_appsgrid_cxt" id="BigRoll1058444406803" name="BigRoll" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027aea" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Checkers1058444410820" name="Checkers" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026923" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Chessboard1058444415172" name="Chessboard" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe690e897" derviedlayoutid="qgn_menu_appsgrid_cxt" id="CloseMaps1058444419524" name="CloseMaps" previewscreen="Application Grid" show="true"/>
+<element appuid="0x101f4668" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Converter_W2450374697219" name="Converter 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037384" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Counter2450374722994" name="Counter 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026ad0" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Crayons_W2450374728350" name="Crayons" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20049544" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Data_Log2450374732367" name="Data Log" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028042" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Disco2450374737054" name="Disco" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20022b99" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Fifteen2450374741740" name="Fifteen" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20026920" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Freecell2450374746761" name="Freecell" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe02866da" derviedlayoutid="qgn_menu_appsgrid_cxt" id="fshell2450374751448" name="fshell" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20071ae1" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Locker2450374755465" name="Locker" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2003b21e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Mailbox_Creator2450374760151" name="Mailbox Creator" previewscreen="Application Grid" show="true"/>
+<element appuid="0x2002a08e" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Maps_Racing2450374764838" name="Maps Racing" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20027aeb" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Memory_Tester2450374769190" name="Memory Tester" previewscreen="Application Grid" show="true"/>
+<element appuid="0xef83b5a5" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Epong2450374774211" name="Epong" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20037386" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Resistors2450374779232" name="Resistors" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20047b9f" derviedlayoutid="qgn_menu_appsgrid_cxt" id="RP_Plus_22450374783584" name="RP Plus 2" previewscreen="Application Grid" show="true"/>
+<element appuid="0xe4b75d6c" derviedlayoutid="qgn_menu_appsgrid_cxt" id="SpaceBlok2450374788270" name="SpaceBlok" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20024128" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Space_Impact2450374792287" name="Space Impact" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20028D30" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Endomondo649246221429" name="Endomondo" previewscreen="Application Grid" show="true"/>
+<element appuid="0x20034D0F" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Steps3181148348997" name="Steps" previewscreen="Application Grid" show="true"/>
+<element appuid="0xA0009D00" derviedlayoutid="qgn_menu_appsgrid_cxt" id="Podcatcher3741424490686" name="Podcatcher" previewscreen="Application Grid" show="true"/>
+</component>
+</componentgroup>
+</task>
+</design>
