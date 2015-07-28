@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<rect color="#000000" display="inline" fill="#353535" fill-opacity="0.58823529" fill-rule="nonzero" height="27.533897" ry="4.7137108" stroke="none" visibility="visible" width="27.533897" x="1.2330513" y="1.2330513"/>
+<path d="M 21.230768 15.209077 L 18.834692 12.730616 C 18.654692 12.543693 18.342464 12.523616 18.139614 12.691155 L 14.610231 15.612 L 12.605308 13.536461 C 12.423923 13.348153 12.125539 13.348153 11.944154 13.536461 L 8.769231 16.822151 L 8.769231 19.5 L 21.23077 19.5 L 21.23077 15.209077 z M 23.307692 7.7307687 L 6.6923103 7.7307687 C 6.3094616 7.730769 6.0 8.040231 6.0 8.423077 L 6.0 21.576923 C 6.0 21.95977 6.3094616 22.269232 6.6923075 22.269232 L 23.30769 22.269232 C 23.690538 22.269232 24.0 21.959768 24.0 21.576923 L 24.0 8.423077 C 24.0 8.040231 23.690538 7.730769 23.307692 7.730769 z M 22.615383 20.884617 L 7.384616 20.884617 L 7.384616 9.115386 L 22.615383 9.115386 L 22.615383 20.884617 z " fill="#dedede"/>
+<rect fill="none" height="30" width="30"/>
+</svg>

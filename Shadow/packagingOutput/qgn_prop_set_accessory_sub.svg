@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5000162" y="4.4999995"/>
+<rect color="#000000" display="inline" fill="#f6da42" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="46.1846" y2="10.8159">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<g fill="#ffffff" fill-opacity="1" transform="matrix(0.9735866,0,0,-0.9735866,24.364366,30.084877)">
+<path d="M 0.0 0.0 L 0.0 -10.857 C 0.0 -11.185 4.32 -11.185 4.32 -10.857 L 4.32 0.0 C 4.32 0.327 0.0 0.327 0.0 0.0 M 21.991 -2.702 L 21.991 1.9810002 C 21.991 9.216001 16.692 14.467 9.390999 14.467 C 2.0889988 14.467 -3.2090015 9.216 -3.2090015 1.981 L -3.2090015 -2.678 C -3.5150015 -3.428 -3.5930016 -4.409 -3.5930016 -5.488 C -3.5930016 -7.838 -3.2340016 -9.740999 -0.92900157 -9.740999 L -0.92900157 -1.2349997 C -1.0550016 -1.2349997 -1.1740016 -1.2429997 -1.2890016 -1.2549996 L -1.2890016 1.9810004 C -1.2890016 8.202001 3.1029987 12.546 9.390999 12.546 C 15.6779995 12.546 20.069 8.202 20.069 1.981 L 20.069 -1.243 C 19.951 -1.2310001 19.827 -1.224 19.696001 -1.224 L 19.696001 -9.729 C 22.0 -9.729 22.36 -7.825 22.36 -5.478 C 22.36 -4.415 22.284 -3.446 21.991001 -2.7020001 M 14.4470005 -0.10800004 L 14.4470005 -10.966 C 14.4470005 -11.292999 18.766 -11.292999 18.766 -10.966 L 18.766 -0.1079998 C 18.766 0.2200002 14.4470005 0.2200002 14.4470005 -0.1079998 " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+</g>
+</svg>

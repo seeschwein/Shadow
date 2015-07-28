@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="29.4619" y2="-0.2529">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="0.7471" y2="29.1486">
+<stop offset="0" stop-color="#505050"/>
+<stop offset="0.011" stop-color="#4f4f4f"/>
+<stop offset="0.2485" stop-color="#333333"/>
+<stop offset="0.4877" stop-color="#1f1f1f"/>
+<stop offset="0.7276" stop-color="#131313"/>
+<stop offset="0.9693" stop-color="#0f0f0f"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.4941" y2="12.9467">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 14.999 2.988 C 23.173 2.988 26.219 5.6610003 26.432 13.176 C 26.446 12.822 26.453 12.457999 26.453 12.08 C 26.453 3.8900003 23.484 1.0240002 14.998999 1.0240002 C 6.5149984 1.0240002 3.5479984 3.889 3.5479984 12.08 C 3.5479984 12.45 3.5569985 12.803 3.5689983 13.15 C 3.788 5.655 6.835 2.988 14.999 2.988 z " fill="url(#SVGID_3_)" fill-opacity="0.25" stroke-opacity="0.25"/>
+<rect fill="none" height="30" width="30"/>
+<rect fill="#231f20" fill-opacity="1" height="29.997549" stroke="none" width="9.1216049" x="10.447315" y="0.001225246"/>
+<rect fill="#3c3c3c" fill-opacity="1" height="29.057789" stroke="none" width="8.0372677" x="11.017511" y="0.39881578"/>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="27px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 27 27" width="27px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,26.1543)" gradientUnits="userSpaceOnUse" x1="13.4595" x2="13.4595" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.0928" y2="24.0104">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,26.1543)" gradientUnits="userSpaceOnUse" x1="18.9033" x2="18.9033" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.0923" y2="24.0104">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,26.1543)" gradientUnits="userSpaceOnUse" x1="13.7319" x2="13.7319" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.0913" y2="24.0103">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,26.1543)" gradientUnits="userSpaceOnUse" x1="5.96" x2="5.96" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.0928" y2="24.0105">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.04,26.1543)" gradientUnits="userSpaceOnUse" x1="5.96" x2="5.96" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.0928" y2="24.0099">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="27" width="27"/>
+<polygon fill="#fa664b" fill-opacity="1" points="3.247,24.46 24.46,3.247 23.753,2.54 2.54,23.753 "/>
+<path d="M 23.0 16.895 L 23.0 6.121 L 14.887 14.233999 C 17.975 15.528999 21.034 17.451 23.0 16.895 z " fill="#575757" fill-opacity="1"/>
+<path d="M 11.644 13.235 L 19.544 5.3349996 C 15.896 3.879 11.237 0.7 8.0 2.901 L 8.0 13.901 C 9.085 13.163 10.331 13.032 11.644 13.235 z " fill="#575757" fill-opacity="1"/>
+<path d="M 7.0 3.0 C 7.0 2.448 6.553 2.0 6.0 2.0 C 5.447 2.0 5.0 2.448 5.0 3.0 L 5.0 20.004 L 7.0 18.004 L 7.0 3.0 z " fill="#575757" fill-opacity="1"/>
+<polygon fill="#575757" fill-opacity="1" points="7,22.246 5,24.246 5,25 7,25 "/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="95px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 95 95" width="95px" x="0px" y="0px" zoomAndPan="magnify">
+<linearGradient gradientTransform="matrix(1 0 0 -1 -126 19)" gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="173.5" x2="173.5" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="19" y2="-76">
+<stop offset="0" stop-color="#0f0f0f"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<rect fill="url(#SVGID_1_)" height="95" width="95"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -126 19)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="173.5" x2="173.5" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="19" y2="-76">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.5"/>
+</linearGradient>
+<path d="M 0.0 0.0 L 0.0 95.0 L 95.0 95.0 L 95.0 0.0 L 0.0 0.0 z M 94.62 94.62 L 0.38 94.62 L 0.38 0.38 L 94.62 0.38 L 94.62 94.62 z " fill="url(#SVGID_2_)" fill-opacity="0.2"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -126 19)" gradientUnits="userSpaceOnUse" x1="149.8447" x2="192.8799" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-29.2603" y2="-29.2603">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+<stop offset="0.5" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.5"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -126 19)" gradientUnits="userSpaceOnUse" x1="151.7715" x2="197.8197" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-54.2407" y2="-8.1925">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/>
+<stop offset="0.5" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.5"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -126 19)" gradientUnits="userSpaceOnUse" x1="159.4941" x2="190.0996" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-15.5332" y2="-46.1387">
+<stop offset="0" stop-color="#231f20"/>
+<stop offset="1" stop-color="#231f20"/>
+</linearGradient>
+<path d="M 64.684 20.963 L 41.906 26.665 C 40.691 26.96 39.702 28.224 39.702 29.476 L 39.702 61.630997 C 37.527 60.285995 34.093 60.102997 30.696 61.399 C 25.842 63.247 22.904 67.391 24.119 70.653 C 25.342 73.924 30.258 75.061 35.118 73.221 C 39.204 71.662 41.928 68.482 41.956 65.569 L 41.966 65.569 L 41.966 37.959 L 64.615 32.303 L 64.615 55.97 C 62.447 54.620003 59.01 54.437 55.609997 55.736 C 50.761997 57.58 47.817 61.724 49.035995 64.992 C 50.254997 68.254 55.181995 69.406 60.028996 67.559 C 64.114 65.999 66.839 62.816 66.867 59.9 L 66.879 59.9 L 66.879 22.682 C 66.88 21.438 65.894 20.668 64.684 20.963 " fill="#575757" fill-opacity="1"/>
+</svg>

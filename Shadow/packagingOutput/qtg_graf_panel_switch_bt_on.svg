@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="62px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 54 62" width="54px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="27.0005" x2="27.0005" y1="65.5" y2="50.9227">
+<stop offset="0" stop-color="#53cfff"/>
+<stop offset="1" stop-color="#3f72b1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="26.9995" x2="26.9995" y1="15.5" y2="49.0152">
+<stop offset="0" stop-color="#192d81"/>
+<stop offset="0.2109" stop-color="#193185"/>
+<stop offset="0.4237" stop-color="#183d91"/>
+<stop offset="0.6373" stop-color="#1651a5"/>
+<stop offset="0.8503" stop-color="#146dc1"/>
+<stop offset="1" stop-color="#1286d9"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="26.9995" x2="26.9995" y1="-0.25" y2="49.4326">
+<stop offset="0" stop-color="#0f0f0f"/>
+<stop offset="1" stop-color="#141416"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="26.9995" x2="26.9995" y1="-0.25" y2="50.0229">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#3f94ff"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-0.1493976,5.9759036)" gradientUnits="userSpaceOnUse" x1="26.9995" x2="26.9995" y1="3.4224" y2="42.4198">
+<stop offset="0" stop-color="#234c9d"/>
+<stop offset="0.2452" stop-color="#2763ae"/>
+<stop offset="0.758" stop-color="#329fdb"/>
+<stop offset="1" stop-color="#38bdf2"/>
+</linearGradient>
+<path d="M 25.8056 15.435903 L 25.8056 27.976902 L 20.547602 22.716902 L 18.7606 24.501902 L 25.1956 30.9679 L 18.6156 37.5469 L 20.4036 39.3339 L 25.8016 33.9349 L 25.8016 46.5149 L 35.0856 37.2509 L 28.769602 30.9679 L 35.0856 24.6899 L 25.805605 15.4359 z M 31.493605 24.6659 L 28.331602 27.8259 L 28.331602 21.5099 L 31.493605 24.6659 z M 28.330605 40.6119 L 28.330605 34.0799 L 31.600603 37.3449 L 28.330605 40.611897 z " fill="#ffffff"/>
+<path d="M 52.04096 31.0 C 52.04096 44.80712 40.84808 56.0 27.040964 56.0 C 13.233844 56.0 2.040964 44.80712 2.040964 31.0 C 2.040964 17.19288 13.233844 6.0 27.040964 6.0 C 40.848083 6.0 52.04096 17.19288 52.04096 31.0 z " fill="none" stroke="#ffffff" stroke-dasharray="none" stroke-miterlimit="4" stroke-opacity="1" stroke-width="2.017"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<rect fill="none" height="57" width="67"/>
+<path d="M 33.116932 44.57971 C 32.722446 44.57971 32.40228 44.258827 32.40228 43.86506 L 32.40228 27.463036 L 21.050003 18.779997 C 20.893496 18.647068 20.797018 18.45197 20.797018 18.234713 L 20.797018 13.134945 C 20.797018 12.741172 21.117184 12.420292 21.511677 12.420292 L 45.488304 12.420292 C 45.679832 12.420292 45.859924 12.495332 45.995712 12.631114 C 46.1315 12.769043 46.20439 12.945562 46.20296 13.139948 L 46.20296 18.239002 C 46.20156 18.448397 46.071465 18.644926 45.912815 18.779282 L 34.93859 27.45732 L 34.93859 43.86506 C 34.93859 44.258827 34.618427 44.57971 34.223934 44.57971 L 33.116936 44.57971 z M 34.938595 24.153473 L 43.64022 17.502905 L 43.64022 14.955879 L 34.938595 14.955879 L 34.938595 24.153473 z M 23.33405 17.409285 L 32.40372 24.144896 L 32.40372 14.955878 L 23.33405 14.955878 L 23.33405 17.409285 z " fill="#ffffff" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.2261" x2="33.2261" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="51" y2="6.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<rect color="#000000" display="inline" fill="#ffffff" fill-opacity="0" fill-rule="nonzero" height="33" ry="0" stroke="none" visibility="visible" width="33" x="17" y="12"/>
+</svg>

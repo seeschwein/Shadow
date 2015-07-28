@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3822" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient>
+<stop offset="0" stop-color="#3a84ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#3a61ff" stop-opacity="0.99576271"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3804" x1="48.677967" x2="48.677967" y1="9.3559322" y2="88.678429">
+<stop offset="0" stop-color="#3a84ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#3a61ff" stop-opacity="0.99576271"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-54.508472,-15.677966)" gradientUnits="userSpaceOnUse" id="linearGradient3820" x1="98" x2="98" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="47.593216" y2="80.974014">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-54.508472,-15.677966)" gradientUnits="userSpaceOnUse" id="linearGradient3830" x1="98" x2="98" y1="47.593216" y2="80.974014">
+<stop offset="0" stop-color="#3a84ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#3a61ff" stop-opacity="0.99576271"/>
+</linearGradient>
+</defs>
+<path d="M 88.0 49.0 C 88.0 78.633 77.637 89.0 48.0 89.0 C 18.365 89.0 8.0 78.633 8.0 49.0 C 8.0 19.365 18.365 9.0 48.0 9.0 C 77.636 9.0 88.0 19.365 88.0 49.0 z " fill-opacity="0.4" stroke-opacity="0.4"/>
+<rect fill="none" height="96" width="96"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8.5449" y2="89.2398">
+<stop offset="0" stop-color="#00bacc"/>
+<stop offset="0.2312" stop-color="#01a1bb"/>
+<stop offset="0.747" stop-color="#026d98"/>
+<stop offset="1" stop-color="#02598b"/>
+</linearGradient>
+<path d="M 88.0 48.0 C 88.0 77.633 77.637 88.0 48.0 88.0 C 18.365 88.0 8.0 77.633 8.0 48.0 C 8.0 18.365 18.365 8.0 48.0 8.0 C 77.636 8.0 88.0 18.365 88.0 48.0 z " fill="url(#linearGradient3804)" fill-opacity="1"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 48.0 8.0 C 18.365 8.0 8.0 18.365 8.0 48.0 C 8.0 77.633 18.365 88.0 48.0 88.0 C 77.636 88.0 88.0 77.633 88.0 48.0 C 88.0 18.365 77.636 8.0 48.0 8.0 z M 48.0 87.0 C 18.842 87.0 9.0 77.159 9.0 48.0 C 9.0 18.842 18.842 9.0 48.0 9.0 C 77.158005 9.0 87.0 18.842 87.0 48.0 C 87.0 77.159 77.158 87.0 48.0 87.0 z " fill="url(#SVGID_2_)" fill-opacity="0.25" stroke-opacity="0.25"/>
+<path d="M 36.146 47.29 L 36.146 46.456 C 36.139 46.613 36.131 46.905 36.146 47.29 z " fill="#f16522"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="27.8447" y2="77.9766">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<path d="M 57.587 52.66 L 57.587 52.353 C 57.583 52.44 57.583 52.543 57.587 52.66 z " fill="#ffffff"/>
+<path d="M 70.0 32.5 L 26.000004 32.5 L 48.0 50.5 L 70.0 32.5 z M 48.0 53.5 L 26.000004 35.5 L 26.000004 63.5 C 26.000004 64.604 26.896006 65.5 28.000004 65.5 L 68.0 65.5 C 69.104 65.5 70.0 64.604 70.0 63.5 L 70.0 35.5 L 48.0 53.5 z " fill="url(#linearGradient3830)" fill-opacity="1" stroke-opacity="0.29999999999999999"/>
+<path d="M 70.0 32.5 L 26.000004 32.5 L 48.0 50.5 L 70.0 32.5 z M 48.0 53.5 L 26.000004 35.5 L 26.000004 63.5 C 26.000004 64.604 26.896006 65.5 28.000004 65.5 L 68.0 65.5 C 69.104 65.5 70.0 64.604 70.0 63.5 L 70.0 35.5 L 48.0 53.5 z " fill="url(#linearGradient3820)" fill-opacity="1" stroke-opacity="0.3"/>
+</svg>

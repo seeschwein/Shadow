@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.0005" x2="33.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="51.4995" y2="5.5005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path d="M 42.73375 19.9875 L 38.11875 19.9875 L 38.11875 24.603748 L 39.27125 24.603748 L 39.27125 26.381248 L 34.585003 28.765 L 34.585003 18.835 L 37.07875 18.835 L 33.500004 13.9275 L 29.921251 18.835 L 32.415005 18.835 L 32.415005 30.75375 L 27.728754 28.7225 L 27.728754 26.59375 C 28.416254 26.1925 28.882504 25.4575 28.882504 24.60375 C 28.882504 23.33 27.851255 22.29625 26.573751 22.29625 C 25.298754 22.29625 24.266254 23.33 24.266254 24.603748 C 24.266254 25.4575 24.732504 26.1925 25.420004 26.593748 L 25.420004 30.238749 L 32.415005 33.271248 L 32.415005 36.337498 C 31.038755 36.795 30.037504 38.078747 30.037504 39.609997 C 30.037504 41.521248 31.587503 43.072495 33.500004 43.072495 C 35.413754 43.072495 36.963753 41.521244 36.963753 39.609993 C 36.963753 38.078743 35.963753 36.79499 34.585003 36.337498 L 34.585003 31.356243 L 41.581253 27.796244 L 41.581253 24.603745 L 42.733753 24.603745 L 42.733753 19.987495 z " fill="#c2c2c2" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+</svg>

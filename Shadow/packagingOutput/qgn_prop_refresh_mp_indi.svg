@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="29.4619" y2="-0.2529">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="0.7471" y2="29.1486">
+<stop offset="0" stop-color="#505050"/>
+<stop offset="0.011" stop-color="#4f4f4f"/>
+<stop offset="0.2485" stop-color="#333333"/>
+<stop offset="0.4877" stop-color="#1f1f1f"/>
+<stop offset="0.7276" stop-color="#131313"/>
+<stop offset="0.9693" stop-color="#0f0f0f"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="15.0005" x2="15.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.4941" y2="12.9467">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 15.0 16.014505 L 15.0 22.7249 " fill="none" fill-opacity="1" stroke="#fa664b" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3"/>
+</svg>

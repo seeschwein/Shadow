@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="7px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 7" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="7" width="67"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="33.4995" x2="33.4995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="0.4209" y2="33.3084">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<rect fill="url(#SVGID_1_)" fill-opacity="0.05" height="5.764" stroke-opacity="0.05" width="67" y="1.236"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="33.5005" x2="33.5005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="54.9814" y2="7.0791">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<rect fill="url(#SVGID_2_)" height="5.764" width="67" y="1.236"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="0" x2="67" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="0.7363" y2="0.7363">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<rect fill="url(#SVGID_3_)" fill-opacity="0.1" height="1" stroke-opacity="0.1" width="67" y="0.236"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_4_" x1="33.4995" x2="33.4995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.1987" y2="6.6984">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<rect fill="url(#SVGID_4_)" fill-opacity="0.3" height="1" stroke-opacity="0.3" width="67" y="1.236"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5010052" y="5.1285834"/>
+<rect color="#000000" display="inline" fill="#0500a7" fill-opacity="0.58823529" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5010052" y="5.1285834"/>
+<g>
+<rect fill="none" height="57" width="67"/>
+</g>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="52" y2="4.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<g transform="translate(-0.6329165,-0.1820855)">
+<path d="M 38.799583 28.682089 L 36.466915 28.682089 L 36.466915 21.348751 L 31.798914 21.348751 L 31.798914 28.682089 L 29.466248 28.682089 L 34.13291 36.01542 z " fill="#ffffff" fill-opacity="1" stroke-opacity="0.3"/>
+<path d="M 42.13392 13.310668 L 26.133924 13.310668 C 24.601677 13.310668 24.133924 16.06451 24.133924 17.310669 C 24.133924 17.310669 24.133924 33.31067 24.133924 41.31067 C 24.133924 42.878258 24.616293 45.31067 26.133924 45.31067 C 31.467257 45.31067 42.13392 45.31067 42.13392 45.31067 C 43.813587 45.31067 44.13392 42.85343 44.13392 41.31067 C 44.13392 41.31067 44.13392 25.31067 44.13392 17.310673 C 44.13392 15.822613 43.298832 13.310674 42.13392 13.31067 z M 35.10425 43.31067 C 34.574818 43.681606 33.69446 43.681458 33.164917 43.31067 C 32.874336 43.107212 32.80092 42.6654 32.80092 42.31067 C 32.80092 41.955936 32.87434 41.51413 33.164917 41.31067 C 33.694454 40.93989 34.574818 40.93973 35.104248 41.31067 C 35.39471 41.514175 35.467583 41.956017 35.467583 42.31067 C 35.467583 42.66532 35.39471 43.10717 35.104248 43.31067 z M 42.13392 39.31067 L 26.13392 39.31067 L 26.13392 17.310669 L 42.13392 17.310669 z " fill="#ffffff" fill-opacity="1" stroke-opacity="0.3"/>
+</g>
+</svg>

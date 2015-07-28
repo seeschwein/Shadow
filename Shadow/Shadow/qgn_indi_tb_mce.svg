@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<path d="M 3.0 26.0 C 1.896 26.0 1.0 25.104 1.0 24.0 L 1.0 7.0 C 1.0 6.447 1.447 6.0 2.0 6.0 L 28.0 6.0 C 28.553 6.0 29.0 6.447 29.0 7.0 L 29.0 24.0 C 29.0 25.104 28.104 26.0 27.0 26.0 L 3.0 26.0 z " fill-opacity="0.15" stroke-opacity="0.15"/>
+<path d="M 2.0 7.893 L 2.0 23.0 C 2.0 23.55 2.45 24.0 3.0 24.0 L 27.0 24.0 C 27.55 24.0 28.0 23.55 28.0 23.0 L 28.0 7.893 L 15.0 17.893 L 2.0 7.893 z M 28.0 6.0 L 2.0 6.0 L 15.0 16.0 L 28.0 6.0 z " fill-opacity="0.3" stroke-opacity="0.3"/>
+<path d="M 2.0 8.893 L 2.0 24.0 C 2.0 24.55 2.45 25.0 3.0 25.0 L 27.0 25.0 C 27.55 25.0 28.0 24.55 28.0 24.0 L 28.0 8.893 L 15.0 18.893 L 2.0 8.893 z M 28.0 7.0 L 2.0 7.0 L 15.0 17.0 L 28.0 7.0 z " fill="#dedede"/>
+<rect fill="none" height="30" width="30"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="51px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 208 51" width="208px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="translate(-686.0132,1409.1914)" gradientUnits="userSpaceOnUse" id="linearGradient3041" x1="667.06708" x2="1001.2087" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-1402.1782" y2="-1402.1782">
+<stop offset="0" stop-color="#2e2e2e"/>
+<stop offset="0.5" stop-color="#636363"/>
+<stop offset="0.865" stop-color="#2e2e2e"/>
+<stop offset="1" stop-color="#2e2e2e"/>
+</linearGradient>
+</defs>
+<rect fill="#000000" fill-opacity="0.03921569" height="3" width="208" x="8.9471435e-008" y="44.5"/>
+<path d="M 0.0 0.0 L 0.0 38.5 L 0.0 39.0 L 0.0 44.5 L 208.0 44.5 L 208.0 39.0 L 208.0 38.5 L 208.0 0.0 L 0.0 0.0 z " fill="#646464" fill-opacity="0.39215687"/>
+<polygon fill="#2e2e2e" points="208,7.013 0,7.013 208,7.013 " transform="translate(0,38.487001)"/>
+<rect fill="#000000" fill-opacity="0.03921569" height="2" width="208" x="8.9471435e-008" y="44.500004"/>
+<polygon fill="url(#linearGradient3041)" points="208,7.013 0,7.013 208,7.013 " transform="translate(0,38.487001)"/>
+<rect fill="#000000" fill-opacity="0.03921569" height="0.99800003" width="208" x="8.9471435e-008" y="44.501999"/>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="58px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 323 58" width="323px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="161.4993" x2="161.4993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.7051" y2="56.4517">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="161.4993" x2="161.4993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.7051" y2="56.4517">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+</defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3024" x1="161.4993" x2="161.4993" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.7051" y2="56.4517">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+</defs>
+<rect fill="url(#linearGradient3024)" height="58" width="323" x="0" y="0"/>
+<rect fill="#2e2e2e" height="56" width="323" x="0" y="1"/>
+</svg>

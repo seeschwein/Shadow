@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect fill="#6b00f0" fill-opacity="0.58823532" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<path d="M 33.5 12.500001 C 24.663635 12.500001 17.5 19.663631 17.5 28.5 C 17.5 37.33636 24.663635 44.5 33.5 44.5 C 42.33636 44.5 49.5 37.33636 49.5 28.5 C 49.5 19.66364 42.33636 12.5 33.500004 12.5 z M 28.4091 37.316727 L 28.4091 19.682549 L 43.087643 28.328363 L 28.4091 37.316727 z " fill="#ffffff" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.0005" x2="33.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="50" y2="6.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

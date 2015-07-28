@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5000014"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<g>
+<rect fill="none" height="57" width="67"/>
+</g>
+<g>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+</g>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="52" y2="4.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path d="M 19.870363 36.203705 L 19.870363 17.240742 L 45.944443 17.240742 L 45.944443 27.270966 C 46.82503 27.677486 47.626217 28.226225 48.31481 28.891115 L 48.31481 16.055557 C 48.31481 15.403708 47.78148 14.870373 47.129627 14.870373 L 18.685184 14.870373 C 18.033333 14.87037 17.5 15.403705 17.5 16.055553 L 17.5 37.388885 C 17.5 38.040737 18.033333 38.574074 18.685184 38.574074 L 34.641335 38.574074 C 34.301186 37.83452 34.065334 37.03926 33.946815 36.203705 L 19.870373 36.203705 z M 37.228592 22.40104 L 31.129627 28.500002 L 27.401035 24.77141 C 27.171112 24.541489 26.793036 24.541489 26.56311 24.77141 L 21.648146 29.685186 L 21.648146 34.42593 L 33.885185 34.42593 C 34.18741 30.071558 37.761925 26.612003 42.16252 26.49704 L 38.06652 22.40104 C 37.836594 22.169928 37.45971 22.169928 37.228592 22.40104 z M 42.38889 27.907408 C 38.462368 27.907408 35.27778 31.091995 35.27778 35.01852 C 35.27778 38.94504 38.462368 42.12963 42.38889 42.12963 C 46.31541 42.12963 49.5 38.94504 49.5 35.01852 C 49.5 31.092 46.31541 27.90741 42.38889 27.90741 z M 46.143555 35.676296 L 41.004593 39.10267 C 40.462963 39.462963 40.018517 39.22592 40.018517 38.574074 L 40.018517 31.462963 C 40.018517 30.81111 40.462963 30.574074 41.004593 30.935556 L 46.143555 34.361923 C 46.685184 34.72222 46.685184 35.314816 46.143555 35.676292 z " fill="#ffffff"/>
+</svg>

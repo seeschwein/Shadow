@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="17px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 5 17" width="5px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<rect fill="url(#SVGID_1_)" height="17" width="5"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="2.4995" x2="2.4995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-5.2256" y2="21.9442">
+<stop offset="0" stop-color="#231f20"/>
+<stop offset="1" stop-color="#231f20"/>
+</linearGradient>
+</defs>
+</g>
+</svg>

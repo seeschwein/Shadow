@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 -498.9609 -785.0391)" gradientUnits="userSpaceOnUse" x1="531.96" x2="531.96" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="837.04" y2="789.04">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<g transform="translate(25.598425,13.972442)">
+<path d="M 12.968504 20.196848 L 9.177166 24.02362 L 9.177166 16.122046 z M 9.177166 5.031496 L 12.968504 8.858267 L 9.177166 12.01181 z M 15.80315 8.858267 L 6.767717 0.0 L 6.767717 12.93307 L 1.2755907 7.830709 L 0.0 9.212598 L 5.7047243 14.527558 L 0.0 19.84252 L 1.2755907 21.22441 L 6.7677164 16.122047 L 6.7677164 29.055119 L 15.80315 20.19685 L 10.133858 13.889764 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none"/>
+</g>
+</svg>

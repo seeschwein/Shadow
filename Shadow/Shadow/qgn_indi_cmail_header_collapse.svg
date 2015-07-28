@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="40px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 40 40" width="40px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<defs>
+<linearGradient gradientTransform="translate(-498.9609,-829.0391)" gradientUnits="userSpaceOnUse" x1="518.96" x2="518.96" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="864.04" y2="834.04">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+</defs>
+<linearGradient gradientTransform="matrix(1.477489,0,0,1,-746.75949,-829.0391)" gradientUnits="userSpaceOnUse" x1="518.96" x2="518.96" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="864.04" y2="834.04">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="40" width="40" x="0" y="0"/>
+<path color="#000000" d="M 19.78125 13.78125 C 19.684635 13.803137 19.590424 13.83454 19.5 13.875 L 4.8125 19.21875 C 4.280596 19.380655 3.881863 19.82347 3.7764156 20.36938 C 3.670968 20.915289 3.8761024 21.474745 4.3094454 21.823095 C 4.742789 22.17145 5.333259 22.251556 5.84375 22.03125 L 20.0 16.875 L 34.1875 22.03125 C 34.70457 22.276377 35.316055 22.20599 35.763912 21.849794 C 36.211765 21.493595 36.417973 20.913645 36.295513 20.354668 C 36.17305 19.795692 35.743256 19.355074 35.1875 19.21875 L 20.5 13.875 C 20.27168 13.785469 20.024897 13.75328 19.78125 13.78125 z " display="inline" fill="#dedede" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="3" visibility="visible"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="57" width="67"/>
+<path d="M 28.991 28.188 L 28.991 28.188 C 24.524 43.172 16.41 41.041 16.41 41.041 L 16.41 50.318 C 16.41 50.318 31.0 53.4 36.657997 34.254 C 38.034996 34.254 46.423996 34.254 46.423996 34.254 L 46.423996 24.984 C 46.423996 24.984 42.323997 24.984 40.353996 24.984 C 44.81599 16.869 50.589996 17.957 50.589996 17.957 L 50.589996 8.688 C 50.59 8.688 35.73 5.206 28.991 28.188 z " fill="#575757" fill-opacity="1"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -242.5098 -676.3301)" gradientUnits="userSpaceOnUse" x1="276.0107" x2="276.0107" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-725.8311" y2="-683.8296">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</svg>

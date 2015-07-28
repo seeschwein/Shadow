@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="58px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 12 58" width="12px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.7056" y2="56.4518">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+</defs>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3010" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1.7056" y2="56.4518">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2"/>
+</linearGradient>
+</defs>
+<path d="M 2.309 0.0 L 0.0 0.0 L 0.0 58.0 L 2.309 58.0 C 7.652 58.0 12.0 53.653 12.0 48.31 L 12.0 9.69 C 12.0 4.347 7.652 0.0 2.309 0.0 z " fill="url(#linearGradient3010)"/>
+<path d="M 2.309 1.0 L 0.0 1.0 L 0.0 57.0 L 2.309 57.0 C 7.088 57.0 11.0 53.09 11.0 48.31 L 11.0 9.69 C 11.0 4.91 7.088 1.0 2.309 1.0 z " fill="#2e2e2e"/>
+</svg>

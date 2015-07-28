@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#01a0f3" stop-opacity="1"/>
+<stop offset="1" stop-color="#01a0f3" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3814" x1="47.887409" x2="47.887409" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="12.20339" y2="85.438919">
+<stop offset="0" stop-color="#01a0f3" stop-opacity="1"/>
+<stop offset="1" stop-color="#0189f3" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path d="M 88.023 49.0 C 88.023 78.633 77.66 89.0 48.023003 89.0 C 18.388002 89.0 8.023003 78.633 8.023003 49.0 C 8.023003 19.365 18.388002 9.0 48.023003 9.0 C 77.66 9.0 88.023 19.365 88.023 49.0 z " fill-opacity="0.4"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -300.9004 -120.5996)" gradientUnits="userSpaceOnUse" x1="348.9238" x2="348.9238" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-204.3115" y2="-128.2644">
+<stop offset="0" stop-color="#02598b"/>
+<stop offset="0.253" stop-color="#026d98"/>
+<stop offset="0.7688" stop-color="#01a1bb"/>
+<stop offset="1" stop-color="#00bacc"/>
+</linearGradient>
+<path d="M 88.023 48.0 C 88.023 77.633 77.66 88.0 48.023003 88.0 C 18.388002 88.0 8.023003 77.633 8.023003 48.0 C 8.023003 18.365 18.388002 8.0 48.023003 8.0 C 77.66 8.0 88.023 18.365 88.023 48.0 z " fill="url(#linearGradient3814)" fill-opacity="1"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -300.9004 -120.5996)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="348.877" x2="348.877" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-128.8535" y2="-208.0991">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 47.977 8.0 C 18.342 8.0 7.977001 18.365 7.977001 48.0 C 7.977001 77.633 18.342 88.0 47.977 88.0 C 77.613 88.0 87.977005 77.633 87.977005 48.0 C 87.977 18.365 77.613 8.0 47.977 8.0 z M 47.977 87.0 C 18.819 87.0 8.977001 77.158 8.977001 48.0 C 8.977001 18.842005 18.819 9.0 47.977 9.0 C 77.135 9.0 86.977005 18.842 86.977005 48.0 C 86.977 77.159 77.134 87.0 47.977 87.0 z " fill="url(#SVGID_2_)" fill-opacity="0.25"/>
+<path d="M 23.001 73.896 C 22.499 73.896 22.007 73.802 21.538 73.619 C 19.995 73.01 19.001 71.549 19.001 69.896 L 19.001 39.85 C 19.001 32.269997 25.167 26.103998 32.745 26.103998 L 63.253 26.103998 C 70.833 26.103998 76.999 32.270996 76.999 39.85 L 76.999 53.714996 C 76.999 61.295 70.833 67.461 63.253 67.461 L 30.759 67.461 L 25.923 72.629 C 25.169 73.435 24.104 73.896 23.001 73.896 L 23.001 73.896 z " fill-opacity="0.05"/>
+<path d="M 23.001 72.896 C 22.624 72.896 22.255 72.82601 21.902 72.68701 C 20.747 72.23 20.001 71.134 20.001 69.896 L 20.001 39.85 C 20.001 32.822 25.718 27.103998 32.746 27.103998 L 63.254997 27.103998 C 70.284 27.103998 76.001 32.822 76.001 39.85 L 76.001 53.714996 C 76.001 60.741997 70.284 66.461 63.254997 66.461 L 30.326 66.461 L 25.192 71.945 C 24.628 72.549 23.83 72.896 23.001 72.896 L 23.001 72.896 z " fill-opacity="0.05"/>
+<path d="M 23.001 71.896 C 22.749 71.896 22.503 71.84901 22.269 71.755005 C 21.499 71.452 21.001 70.72201 21.001 69.896 L 21.001 39.85 C 21.001 33.372997 26.271 28.103998 32.745 28.103998 L 63.253 28.103998 C 69.730995 28.103998 74.999 33.372997 74.999 39.85 L 74.999 53.714996 C 74.999 60.192997 69.72901 65.461 63.253 65.461 L 29.892 65.461 L 24.462 71.263 C 24.085 71.664 23.554 71.896 23.001 71.896 L 23.001 71.896 z " fill-opacity="0.1"/>
+<path d="M 23.001 70.896 C 22.878 70.896 22.753 70.873 22.634 70.82601 C 22.252998 70.676 22.001 70.30601 22.001 69.896 L 22.001 39.85 C 22.001 33.925 26.82 29.103998 32.745 29.103998 L 63.253 29.103998 C 69.18 29.103998 73.999 33.925 73.999 39.85 L 73.999 53.714996 C 73.999 59.642 69.18 64.461 63.253 64.461 L 29.458 64.461 L 23.73 70.578 C 23.539 70.785 23.272 70.896 23.001 70.896 L 23.001 70.896 z " fill-opacity="0.1"/>
+<path d="M 63.255 63.461 L 45.472 63.461 L 32.746 63.461 L 29.023998 63.461 L 23.002 69.898 L 23.002 53.715 L 23.002 48.971 L 23.002 39.85 C 23.002 34.469 27.364998 30.103998 32.746 30.103998 L 63.254997 30.103998 C 68.638 30.103998 73.001 34.469 73.001 39.85 L 73.001 53.714996 C 73.001 59.099 68.638 63.461 63.255 63.461 z " fill-opacity="0.3"/>
+<linearGradient gradientTransform="matrix(-1 0 0 -1 6719.4023 -120.5996)" gradientUnits="userSpaceOnUse" x1="6671.4004" x2="6671.4004" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-152.3267" y2="-186.4955">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<path d="M 63.255 61.688 L 45.472 61.688 L 32.746 61.688 L 29.023998 61.688 L 23.002 68.124 L 23.002 51.944 L 23.002 47.199 L 23.002 38.078003 C 23.002 32.697002 27.364998 28.332005 32.746 28.332005 L 63.254997 28.332005 C 68.638 28.332005 73.001 32.697002 73.001 38.078003 L 73.001 51.944004 C 73.001 57.324 68.638 61.688 63.255 61.688 z " fill="#fcfcfc" fill-opacity="1"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -300.9004 -120.5996)" gradientUnits="userSpaceOnUse" x1="348.9014" x2="348.9014" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-188.7227" y2="-168.521">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -300.9004 -120.5996)" gradientUnits="userSpaceOnUse" x1="348.8955" x2="348.8955" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-187.458" y2="-172.9541">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<rect fill="none" height="96" width="96"/>
+</svg>

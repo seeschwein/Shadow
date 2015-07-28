@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="13px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 91 13" width="91px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-88.0195)" gradientUnits="userSpaceOnUse" x1="162.97951" x2="162.97951" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-88.169899" y2="-100.795">
+<stop offset="0" stop-color="#8c8c8c" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#8c8c8c" stop-opacity="0.05"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-88.0195)" gradientUnits="userSpaceOnUse" x1="117.7305" x2="117.7305" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-100.958" y2="-88.013298">
+<stop offset="0" stop-color="#8c8c8c" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#8c8c8c" stop-opacity="0.15"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-88.0195)" gradientUnits="userSpaceOnUse" x1="208.2305" x2="208.2305" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-100.958" y2="-88.013298">
+<stop offset="0" stop-color="#8c8c8c" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#8c8c8c" stop-opacity="0.15"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-88.0195)" gradientUnits="userSpaceOnUse" x1="162.9805" x2="162.9805" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-100.958" y2="-88.012703">
+<stop offset="0" stop-color="#8c8c8c" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#8c8c8c" stop-opacity="0.15"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-88.0195)" gradientUnits="userSpaceOnUse" x1="162.9805" x2="162.9805" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-100.959" y2="-88.013702">
+<stop offset="0" stop-color="#8c8c8c" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#8c8c8c" stop-opacity="0.15"/>
+</linearGradient>
+</defs>
+<rect fill="#2e2e2e" fill-opacity="1" height="7" width="91" x="0" y="3.2"/>
+</svg>

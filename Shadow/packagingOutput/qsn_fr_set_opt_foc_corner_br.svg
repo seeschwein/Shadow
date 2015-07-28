@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="5px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 5 5" width="5px" x="0px" y="0px" zoomAndPan="magnify">
+<g>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="2.4995" x2="2.4995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-22.2275" y2="4.9441">
+<stop offset="0" stop-color="#231f20"/>
+<stop offset="1" stop-color="#231f20"/>
+</linearGradient>
+<path d="M 0.0 0.0 L 0.0 5.0 C 2.762 5.0 5.0 2.762 5.0 0.0 L 0.0 0.0 z " fill="url(#SVGID_1_)"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 3722.1191)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="2.5005" x2="2.5005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="3717.0596" y2="3722.3154">
+<stop offset="0" stop-color="#231f20"/>
+<stop offset="1" stop-color="#231f20"/>
+</linearGradient>
+<path d="M 4.899 0.0 L 5.0 0.0 C 5.0 2.762 2.762 5.0 0.0 5.0 L 0.0 4.0 C 2.419 4.0 4.436 2.282 4.899 0.0 z " fill="url(#SVGID_2_)" fill-opacity="0.9" stroke-opacity="0.9"/>
+</g>
+</svg>

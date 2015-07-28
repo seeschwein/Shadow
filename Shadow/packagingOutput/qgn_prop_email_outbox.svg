@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="27px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="15 15 27 27" width="27px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="27" width="27" x="15" y="15"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0.1201 -729.5371)" gradientUnits="userSpaceOnUse" x1="28.1431" x2="28.1431" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-768.6953" y2="-747.853">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<path d="M 25.895 33.474 C 25.895 33.662 26.18 33.948 26.369 33.948 L 30.159 33.948 C 30.348 33.948 30.633 33.663 30.633 33.474 L 30.633 26.369 L 33.948 26.369 L 28.264002 18.315998 L 22.580002 26.369 L 25.895002 26.369 L 25.895002 33.474 z M 37.263 33.0 L 35.842 33.0 C 35.32 33.0 34.895 33.425 34.895 33.947 L 34.895 35.842 L 21.631 35.842 L 21.631 33.947 C 21.631 33.425 21.207 33.0 20.684 33.0 L 19.263 33.0 C 18.74 33.0 18.316 33.425 18.316 33.947 L 18.316 38.211 C 18.316 38.733 18.74 39.157997 19.263 39.157997 L 37.263 39.157997 C 37.786 39.157997 38.211 38.733 38.211 38.211 L 38.211 33.947 C 38.211 33.425 37.786 33.0 37.263 33.0 z " fill="#dedede" fill-opacity="1"/>
+</svg>

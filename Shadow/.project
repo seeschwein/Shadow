@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Shadow</name>
+	<comment/>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>com.nokia.tools.content.core.S60DesignNature</nature>
+	</natures>
+</projectDescription>

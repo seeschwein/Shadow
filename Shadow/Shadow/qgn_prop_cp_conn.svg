@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="8.5000019" y="5.5000014"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="8.5" y="5.5"/>
+<path d="M 26.271969 27.985098 L 47.830654 27.985098 L 35.478622 21.047071 L 35.478622 25.921186 L 26.271969 25.921186 C 25.974106 25.921186 25.7304 26.165434 25.7304 26.462755 L 25.7304 27.443533 C 25.7304 27.741938 25.97496 28.00764 26.271969 27.9851 z M 38.72804 31.014906 L 17.16935 31.014906 L 29.52138 37.95293 L 29.52138 33.078823 L 38.728035 33.078823 C 39.025894 33.078823 39.269604 32.83457 39.269604 32.53725 L 39.269604 31.556477 C 39.269604 31.258068 39.02517 31.035738 38.728035 31.014906 z " fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-opacity="1" stroke-width="1.52067018"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.5005" x2="33.5005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="48" y2="9.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<rect color="#000000" display="inline" fill="#ffffff" fill-opacity="0" fill-rule="nonzero" height="33" ry="0" stroke="none" stroke-width="1" visibility="visible" width="33" x="16" y="13"/>
+</svg>

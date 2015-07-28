@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="110px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 110 110" width="110px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#2e2e2e" fill-opacity="1" height="110" width="110"/>
+<rect fill="#ffffff" fill-opacity="0.15" height="1" stroke-opacity="0.15" width="110"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="54.9995" x2="54.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="0" y2="54.6468">
+<stop offset="0" stop-color="#2d2d2d"/>
+<stop offset="1" stop-color="#191919"/>
+</linearGradient>
+</defs>
+<path d="M -0.5504697 109.60099 L 110.38201 109.60099 " fill="none" stroke="#464646" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1" stroke-width="1.14899135px"/>
+</svg>

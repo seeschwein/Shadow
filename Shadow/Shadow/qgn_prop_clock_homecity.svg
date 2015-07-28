@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="57" width="67"/>
+<path d="M 34.052 8.907 L 23.711 19.214 L 23.711 13.773001 L 18.645 13.773001 L 18.645 24.264 C 15.479 27.42 9.357 33.524002 9.357 33.524002 L 12.783001 36.960003 L 34.037003 15.774002 L 34.043003 15.781002 L 34.043003 15.410002 L 34.046 15.410002 L 34.046 15.781002 L 34.053 15.774002 L 55.302 36.958 L 58.737003 33.513 L 34.052 8.907 z M 34.045 19.38 L 34.042 19.38 L 34.036 19.374 L 18.335 34.995 L 18.335 49.082 C 18.335 50.317 19.346 51.327 20.578 51.327 L 29.557 51.327 L 29.557 40.105 L 38.536 40.105 L 38.536 51.327 L 47.515 51.327 C 48.747 51.327 49.759 50.317 49.759 49.082 L 49.759 35.014 L 34.053 19.374 L 34.045 19.38 z " fill="#dedede" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34.0459" x2="34.0459" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="50.3271" y2="7.9072">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

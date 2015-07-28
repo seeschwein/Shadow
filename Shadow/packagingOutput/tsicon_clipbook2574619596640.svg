@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#1ac7ea" stop-opacity="1"/>
+<stop offset="1" stop-color="#1ab7ea" stop-opacity="1"/>
+</linearGradient>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#289bf7" stop-opacity="1"/>
+<stop offset="1" stop-color="#2888f7" stop-opacity="1"/>
+</linearGradient>
+<linearGradient xlink:actuate="onLoad" xlink:show="other" xlink:type="simple">
+<stop offset="0" stop-color="#d5f6ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#0088aa" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.0515857,0,0,1.01708,-253.45339,-715.60427)" gradientUnits="userSpaceOnUse" x1="254.83009" x2="358.8096" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="763.97272" y2="763.97272">
+<stop offset="0" stop-color="#f7f8f9"/>
+<stop offset="1" stop-color="#d0d1d2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7261569,0,0,0.74770351,-174.61605,-527.27145)" gradientUnits="userSpaceOnUse" x1="254.83009" x2="358.8096" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="763.97272" y2="763.97272">
+<stop offset="0" stop-color="#f7f8f9"/>
+<stop offset="1" stop-color="#d0d1d2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-1.3115644,98.868328)" gradientUnits="userSpaceOnUse" x1="61.075901" x2="34.694302" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="57.299801" y2="41.540901">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,1.0534719,96.841079)" gradientUnits="userSpaceOnUse" x1="61.075901" x2="34.694302" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="57.299801" y2="41.540901">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-2.4150126,95.9258)" gradientUnits="userSpaceOnUse" x1="34.720501" x2="60.039902" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="56.8027" y2="41.976002">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-2.5350845,97.20939)" gradientUnits="userSpaceOnUse" x1="34.720501" x2="60.039902" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="56.8027" y2="41.976002">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="63.148201" x2="61.403599" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="26.3545" y2="22.778099">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="63.148201" x2="61.403599" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="26.3545" y2="22.778099">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="62.543701" x2="64.113503" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.8223" y2="37.072102">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="62.543701" x2="64.113503" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.8223" y2="37.072102">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-53.620329,92.86676)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-15.367455,78.154116)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-18.309984,107.94722)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.0147106,0,-1.118872)" gradientUnits="userSpaceOnUse" x1="25.749846" x2="83.267105" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="23.186441" y2="82.169495">
+<stop offset="0" stop-color="#d5f6ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#0088aa" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-111.07647,38.974359)" gradientUnits="userSpaceOnUse" x1="167.8877" x2="206.12601" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-45.7896" y2="-7.5511999">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7653472,0,0,-0.76412837,-94.891385,27.599019)" gradientUnits="userSpaceOnUse" x1="167.8877" x2="206.12601" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-45.7896" y2="-7.5511999">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.625,0,0,0.625,-548.0625,-704.9375)" gradientUnits="userSpaceOnUse" x1="910.82812" x2="910.82812" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1138.2363" y2="1186.5941">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#bbbbbb"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.625,0,0,0.625,-548.0625,-704.9375)" gradientUnits="userSpaceOnUse" x1="910.82812" x2="910.82812" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1138.2363" y2="1186.5941">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#bbbbbb"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0,1,-1,0,96,0)" gradientUnits="userSpaceOnUse" x1="8" x2="88" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="48" y2="48">
+<stop offset="0" stop-color="#289bf7" stop-opacity="1"/>
+<stop offset="1" stop-color="#2888f7" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="49.441372" x2="49.441372" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="27.141659" y2="69.860657">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0,1,-1,0,96,0)" gradientUnits="userSpaceOnUse" id="linearGradient4025" x1="8" x2="88" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="48" y2="48">
+<stop offset="0" stop-color="#0076f5" stop-opacity="1"/>
+<stop offset="1" stop-color="#1a51ff" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="-15.544" x2="0.007512426" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-3.6151117" y2="-3.6151117">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="-15.544" x2="0.007512426" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-3.6151117" y2="-3.6151117">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(3.2151214,0,0,-3.2151214,72.975847,37.376978)" gradientUnits="userSpaceOnUse" x1="-11.018427" x2="-11.018427" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="2.8903997" y2="-10.325421">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-145.8398,-1019.9648)" gradientUnits="userSpaceOnUse" x1="196.6738" x2="196.6738" y1="1092.6943" y2="1042.6943">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-145.8398,-1019.9648)" gradientUnits="userSpaceOnUse" x1="196.6738" x2="196.6738" y1="1092.6943" y2="1042.6943">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-143.6738,-1019.1938)" gradientUnits="userSpaceOnUse" id="linearGradient3323" x1="196.6738" x2="196.6738" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1092.6943" y2="1042.6943">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.78431374"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="translate(-143.6738,-1019.1938)" gradientUnits="userSpaceOnUse" id="linearGradient4101" x1="196.6738" x2="196.6738" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="1092.6943" y2="1042.6943">
+<stop offset="0" stop-color="#0076f5" stop-opacity="1"/>
+<stop offset="1" stop-color="#1a51ff" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path d="M 88.0 49.0 C 88.0 78.633 77.637 89.0 48.0 89.0 C 18.365 89.0 8.0 78.633 8.0 49.0 C 8.0 19.365 18.365 9.0 48.0 9.0 C 77.637 9.0 88.0 19.365 88.0 49.0 z " fill-opacity="0.4"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8" y2="88.0005">
+<stop offset="0" stop-color="#00aad4" stop-opacity="1"/>
+<stop offset="1" stop-color="#2ad4ff" stop-opacity="1"/>
+</linearGradient>
+<path d="M 8.0 48.0 C 8.0 18.367 18.363 8.0 48.0 8.0 C 77.635 8.0 88.0 18.367 88.0 48.0 C 88.0 77.635 77.635 88.0 48.0 88.0 C 18.363 88.0 8.0 77.635 8.0 48.0 z " fill="url(#linearGradient4025)" fill-opacity="1"/>
+<rect fill="none" height="96" width="96"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 48.0 8.0 C 18.365 8.0 8.0 18.365 8.0 48.0 C 8.0 77.633 18.365 88.0 48.0 88.0 C 77.637 88.0 88.0 77.633 88.0 48.0 C 88.0 18.365 77.637 8.0 48.0 8.0 z M 48.0 87.0 C 18.842 87.0 9.0 77.158 9.0 48.0 C 9.0 18.842005 18.842 9.0 48.0 9.0 C 77.158005 9.0 87.0 18.842 87.0 48.0 C 87.0 77.158005 77.158 87.0 48.0 87.0 z " fill="url(#SVGID_2_)" fill-opacity="0.25" stroke-opacity="0.25"/>
+<linearGradient gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.9813 3059.7412)" gradientUnits="userSpaceOnUse" x1="2309.3584" x2="2344.3584" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-1947.9287" y2="-1947.9287">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.9813 3059.7412)" gradientUnits="userSpaceOnUse" x1="2309.3584" x2="2313.3604" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-1957.9277" y2="-1957.9277">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="54.292" x2="59.292" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="10.3501" y2="38.934">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="32.5508" x2="42.1758" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="12.6343" y2="45.1342">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="57.1484" x2="60.063" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="35.2275" y2="38.1421">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.7362" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="44.6177" x2="38.0733" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="37.2412" y2="43.7856">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.7362" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="45.5" y2="53.8766">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#6d6e70"/>
+</linearGradient>
+<g transform="translate(22.911763,4.4320173)">
+<rect fill="none" height="57" width="67" x="12.334" y="18.729"/>
+</g>
+<g transform="translate(2.1660004,0.77099991)">
+<rect fill="none" height="46" width="46" x="22.834" y="24.229"/>
+</g>
+<path d="M 58.5 74.5 C 56.846 74.5 55.5 73.154 55.5 71.5 L 55.5 69.5 C 55.5 70.053 55.053 70.5 54.5 70.5 L 31.5 70.5 C 29.846 70.5 28.5 69.154 28.5 67.5 L 28.5 29.5 C 28.5 27.846 29.846 26.5 31.5 26.5 L 38.5 26.5 C 39.053 26.5 39.5 26.947 39.5 27.5 L 39.5 26.5 C 39.5 24.294 41.294 22.5 43.5 22.5 L 51.5 22.5 C 53.706 22.5 55.5 24.294 55.5 26.5 L 55.5 27.5 C 55.5 26.947 55.947 26.5 56.5 26.5 L 63.5 26.5 C 65.154 26.5 66.5 27.846 66.5 29.5 L 66.5 51.5 C 66.5 52.053 66.053 52.5 65.5 52.5 L 74.5 52.5 C 76.154 52.5 77.5 53.846 77.5 55.5 L 77.5 71.5 C 77.5 73.154 76.154 74.5 74.5 74.5 L 58.5 74.5 z M 54.5 57.5 C 55.053 57.5 55.5 57.947 55.5 58.5 L 55.5 55.5 C 55.5 56.053 55.053 56.5 54.5 56.5 L 37.5 56.5 L 37.5 57.5 L 54.5 57.5 z M 57.5 49.5 L 57.5 48.5 L 37.5 48.5 L 37.5 49.5 L 57.5 49.5 z M 57.5 41.5 L 57.5 40.5 L 37.5 40.5 L 37.5 41.5 L 57.5 41.5 z " fill-opacity="0.15" stroke-opacity="0.15"/>
+<path d="M 54.5 27.5 C 54.5 25.843 53.157 24.5 51.5 24.5 L 43.5 24.5 C 41.843 24.5 40.5 25.843 40.5 27.5 L 40.5 32.5 L 54.5 32.5 L 54.5 27.5 z M 65.5 52.5 L 65.5 30.5 C 65.5 29.396 64.604 28.5 63.5 28.5 L 56.5 28.5 L 56.5 32.5 C 56.5 33.604 55.604 34.5 54.5 34.5 L 40.5 34.5 C 39.396 34.5 38.5 33.604 38.5 32.5 L 38.5 28.5 L 31.5 28.5 C 30.396 28.5 29.5 29.396 29.5 30.5 L 29.5 68.5 C 29.5 69.604 30.396 70.5 31.5 70.5 L 54.5 70.5 L 54.5 59.5 L 36.5 59.5 L 36.5 56.5 L 54.5 56.5 C 54.5 54.294 56.294 52.5 58.5 52.5 L 65.5 52.5 z M 36.5 40.5 L 58.5 40.5 L 58.5 43.5 L 36.5 43.5 L 36.5 40.5 z M 36.5 51.5 L 36.5 48.5 L 58.5 48.5 L 58.5 51.5 L 36.5 51.5 z M 74.5 54.5 L 58.5 54.5 C 57.396 54.5 56.5 55.396 56.5 56.5 L 56.5 72.5 C 56.5 73.604 57.396 74.5 58.5 74.5 L 74.5 74.5 C 75.604 74.5 76.5 73.604 76.5 72.5 L 76.5 56.5 C 76.5 55.397 75.604 54.5 74.5 54.5 z " fill-opacity="0.3" stroke-opacity="0.3"/>
+<path d="M 54.5 26.5 C 54.5 24.843 53.157 23.5 51.5 23.5 L 43.5 23.5 C 41.843 23.5 40.5 24.843 40.5 26.5 L 40.5 31.5 L 54.5 31.5 L 54.5 26.5 z M 65.5 51.5 L 65.5 29.5 C 65.5 28.396 64.604 27.5 63.5 27.5 L 56.5 27.5 L 56.5 31.5 C 56.5 32.604 55.604 33.5 54.5 33.5 L 40.5 33.5 C 39.396 33.5 38.5 32.604 38.5 31.5 L 38.5 27.5 L 31.5 27.5 C 30.396 27.5 29.5 28.396 29.5 29.5 L 29.5 67.5 C 29.5 68.604 30.396 69.5 31.5 69.5 L 54.5 69.5 L 54.5 58.5 L 36.5 58.5 L 36.5 55.5 L 54.5 55.5 C 54.5 53.294 56.294 51.5 58.5 51.5 L 65.5 51.5 z M 36.5 39.5 L 58.5 39.5 L 58.5 42.5 L 36.5 42.5 L 36.5 39.5 z M 36.5 50.5 L 36.5 47.5 L 58.5 47.5 L 58.5 50.5 L 36.5 50.5 z M 74.5 53.5 L 58.5 53.5 C 57.396 53.5 56.5 54.396 56.5 55.5 L 56.5 71.5 C 56.5 72.604 57.396 73.5 58.5 73.5 L 74.5 73.5 C 75.604 73.5 76.5 72.604 76.5 71.5 L 76.5 55.5 C 76.5 54.397 75.604 53.5 74.5 53.5 z " fill="url(#linearGradient4101)" fill-opacity="1"/>
+<path d="M 54.5 26.5 C 54.5 24.843 53.157 23.5 51.5 23.5 L 43.5 23.5 C 41.843 23.5 40.5 24.843 40.5 26.5 L 40.5 31.5 L 54.5 31.5 L 54.5 26.5 z M 65.5 51.5 L 65.5 29.5 C 65.5 28.396 64.604 27.5 63.5 27.5 L 56.5 27.5 L 56.5 31.5 C 56.5 32.604 55.604 33.5 54.5 33.5 L 40.5 33.5 C 39.396 33.5 38.5 32.604 38.5 31.5 L 38.5 27.5 L 31.5 27.5 C 30.396 27.5 29.5 28.396 29.5 29.5 L 29.5 67.5 C 29.5 68.604 30.396 69.5 31.5 69.5 L 54.5 69.5 L 54.5 58.5 L 36.5 58.5 L 36.5 55.5 L 54.5 55.5 C 54.5 53.294 56.294 51.5 58.5 51.5 L 65.5 51.5 z M 36.5 39.5 L 58.5 39.5 L 58.5 42.5 L 36.5 42.5 L 36.5 39.5 z M 36.5 50.5 L 36.5 47.5 L 58.5 47.5 L 58.5 50.5 L 36.5 50.5 z M 74.5 53.5 L 58.5 53.5 C 57.396 53.5 56.5 54.396 56.5 55.5 L 56.5 71.5 C 56.5 72.604 57.396 73.5 58.5 73.5 L 74.5 73.5 C 75.604 73.5 76.5 72.604 76.5 71.5 L 76.5 55.5 C 76.5 54.397 75.604 53.5 74.5 53.5 z " fill="url(#linearGradient3323)" fill-opacity="1"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<g>
+<rect fill="none" height="57" width="67"/>
+</g>
+<g>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+</g>
+<path d="M 41.5 12.5 L 25.499998 12.5 C 23.967752 12.5 23.671604 15.265717 23.499998 16.5 L 23.499998 40.5 C 23.499998 42.06758 23.98237 44.5 25.499998 44.5 L 41.5 44.5 C 43.17967 44.5 43.5 42.042763 43.5 40.5 L 43.5 16.5 C 43.5 15.011938 42.66491 12.5 41.5 12.5 z M 34.391335 42.5 C 33.861904 42.870937 32.981544 42.870777 32.452003 42.5 C 32.161427 42.29654 32.088005 41.854725 32.088005 41.5 C 32.088005 41.145267 32.161415 40.70346 32.452003 40.5 C 32.98155 40.129223 33.861908 40.129063 34.391335 40.5 C 34.681797 40.703503 34.75467 41.145344 34.75467 41.5 C 34.75467 41.854656 34.68179 42.296497 34.391335 42.5 z M 41.5 38.5 L 25.499998 38.5 L 25.499998 16.5 L 41.5 16.5 z " fill="#ffffff" fill-opacity="1" stroke-opacity="0.3"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="52" y2="4.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

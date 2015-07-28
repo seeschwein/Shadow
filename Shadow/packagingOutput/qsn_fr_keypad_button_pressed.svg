@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="67px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 107 67" width="107px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-34.0195)" gradientUnits="userSpaceOnUse" x1="170.9111" x2="170.911" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-36.5557" y2="-98.052">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.1463" stop-color="#ffffff" stop-opacity="0.8537"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-34.0195)" gradientUnits="userSpaceOnUse" x1="170.9082" x2="170.9082" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-36.2051" y2="-42.0981">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-34.0195)" gradientUnits="userSpaceOnUse" id="linearGradient3015" x1="170.9082" x2="170.9082" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-36.2051" y2="-42.0981">
+<stop offset="0" stop-color="#282828"/>
+<stop offset="1" stop-color="#282828" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-117.48,-34.0195)" gradientUnits="userSpaceOnUse" x1="170.9111" x2="170.911" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-36.5557" y2="-98.052">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.1463" stop-color="#ffffff" stop-opacity="0.8537"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="67" width="107" x="0" y="0"/>
+<path d="M 105.1 59.242 C 105.1 62.543 102.401 65.242004 99.1 65.242004 L 7.762001 65.242004 C 4.461001 65.242004 1.762001 62.543003 1.762001 59.242004 L 1.762001 7.688 C 1.762 4.389 4.461 1.6880002 7.762 1.6880002 L 99.1 1.6880002 C 102.401 1.6880002 105.1 4.389 105.1 7.688 L 105.1 59.242 z " fill="#959595"/>
+<path d="M 99.1 1.688 L 7.762001 1.688 C 4.461001 1.688 1.762001 4.389 1.762001 7.688 L 1.762001 8.768 C 1.762 5.4659996 4.461 2.7679996 7.762 2.7679996 L 99.1 2.7679996 C 102.401 2.7679996 105.1 5.4659996 105.1 8.768 L 105.1 7.6879992 C 105.1 4.389 102.4 1.688 99.1 1.688 z " fill="url(#linearGradient3015)" fill-opacity="0.15"/>
+</svg>

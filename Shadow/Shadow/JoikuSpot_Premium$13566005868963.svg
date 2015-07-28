@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient>
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+<linearGradient>
+<stop offset="0" stop-color="#2171af" stop-opacity="1"/>
+<stop offset="1" stop-color="#2159af" stop-opacity="1"/>
+</linearGradient>
+<linearGradient>
+<stop offset="0" stop-color="#d5f6ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#0088aa" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.0515857,0,0,1.01708,-253.45339,-715.60427)" gradientUnits="userSpaceOnUse" x1="254.83009" x2="358.8096" y1="763.97272" y2="763.97272">
+<stop offset="0" stop-color="#f7f8f9"/>
+<stop offset="1" stop-color="#d0d1d2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7261569,0,0,0.74770351,-174.61605,-527.27145)" gradientUnits="userSpaceOnUse" x1="254.83009" x2="358.8096" y1="763.97272" y2="763.97272">
+<stop offset="0" stop-color="#f7f8f9"/>
+<stop offset="1" stop-color="#d0d1d2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-1.3115644,98.868328)" gradientUnits="userSpaceOnUse" x1="61.075901" x2="34.694302" y1="57.299801" y2="41.540901">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,1.0534719,96.841079)" gradientUnits="userSpaceOnUse" x1="61.075901" x2="34.694302" y1="57.299801" y2="41.540901">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-2.4150126,95.9258)" gradientUnits="userSpaceOnUse" x1="34.720501" x2="60.039902" y1="56.8027" y2="41.976002">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-2.5350845,97.20939)" gradientUnits="userSpaceOnUse" x1="34.720501" x2="60.039902" y1="56.8027" y2="41.976002">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="63.148201" x2="61.403599" y1="26.3545" y2="22.778099">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="63.148201" x2="61.403599" y1="26.3545" y2="22.778099">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="62.543701" x2="64.113503" y1="40.8223" y2="37.072102">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="62.543701" x2="64.113503" y1="40.8223" y2="37.072102">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#a3a3a3"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,0.1597,95.9258)" gradientUnits="userSpaceOnUse" x1="45.003201" x2="45.003201" y1="40.209" y2="23.3596">
+<stop offset="0" stop-color="#c2de91"/>
+<stop offset="1" stop-color="#7b9e56"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-53.620329,92.86676)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-15.367455,78.154116)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,8.6194701,63.557984)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-18.309984,107.94722)" gradientUnits="userSpaceOnUse" x1="82.677498" x2="82.677498" y1="37.415001" y2="54.1577">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0.3"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,1.0147106,0,-1.118872)" gradientUnits="userSpaceOnUse" x1="25.749846" x2="83.267105" y1="23.186441" y2="82.169495">
+<stop offset="0" stop-color="#d5f6ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#0088aa" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-111.07647,38.974359)" gradientUnits="userSpaceOnUse" x1="167.8877" x2="206.12601" y1="-45.7896" y2="-7.5511999">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7653472,0,0,-0.76412837,-94.891385,27.599019)" gradientUnits="userSpaceOnUse" x1="167.8877" x2="206.12601" y1="-45.7896" y2="-7.5511999">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#e6e6e6"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0,1,-1,0,96,0)" gradientUnits="userSpaceOnUse" id="linearGradient3988" x1="8" x2="88" y1="48" y2="48">
+<stop offset="0" stop-color="#ffa731" stop-opacity="1"/>
+<stop offset="1" stop-color="#ff9231" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1.1830151,0,0,1.1830151,-8.8018826,-8.7561288)" gradientUnits="userSpaceOnUse" id="linearGradient4072" x1="48.002155" x2="48.002155" y1="30.441732" y2="65.117729">
+<stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0.78431374"/>
+</linearGradient>
+</defs>
+<path d="M 88.0 49.0 C 88.0 78.633 77.637 89.0 48.0 89.0 C 18.365 89.0 8.0 78.633 8.0 49.0 C 8.0 19.365 18.365 9.0 48.0 9.0 C 77.637 9.0 88.0 19.365 88.0 49.0 z " fill-opacity="0.4"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="8" y2="88.0005">
+<stop offset="0" stop-color="#00aad4" stop-opacity="1"/>
+<stop offset="1" stop-color="#2ad4ff" stop-opacity="1"/>
+</linearGradient>
+<path d="M 48.0 88.0 C 18.367 88.0 8.0 77.637 8.0 48.0 C 8.0 18.365 18.367 8.0 48.0 8.0 C 77.635 8.0 88.0 18.365 88.0 48.0 C 88.0 77.637 77.635 88.0 48.0 88.0 z " fill="url(#linearGradient3988)" fill-opacity="1"/>
+<rect fill="none" height="96" width="96"/>
+<linearGradient gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="47.9995" x2="47.9995" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 48.0 8.0 C 18.365 8.0 8.0 18.365 8.0 48.0 C 8.0 77.633 18.365 88.0 48.0 88.0 C 77.637 88.0 88.0 77.633 88.0 48.0 C 88.0 18.365 77.637 8.0 48.0 8.0 z M 48.0 87.0 C 18.842 87.0 9.0 77.158 9.0 48.0 C 9.0 18.842005 18.842 9.0 48.0 9.0 C 77.158005 9.0 87.0 18.842 87.0 48.0 C 87.0 77.158005 77.158 87.0 48.0 87.0 z " fill="url(#SVGID_2_)" fill-opacity="0.25" stroke-opacity="0.25"/>
+<linearGradient gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.9813 3059.7412)" gradientUnits="userSpaceOnUse" x1="2309.3584" x2="2344.3584" y1="-1947.9287" y2="-1947.9287">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0.7071 -0.7071 0.7071 0.7071 -208.9813 3059.7412)" gradientUnits="userSpaceOnUse" x1="2309.3584" x2="2313.3604" y1="-1957.9277" y2="-1957.9277">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="54.292" x2="59.292" y1="10.3501" y2="38.934">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="32.5508" x2="42.1758" y1="12.6343" y2="45.1342">
+<stop offset="0" stop-color="#58595b"/>
+<stop offset="1" stop-color="#000000"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="57.1484" x2="60.063" y1="35.2275" y2="38.1421">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.7362" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="44.6177" x2="38.0733" y1="37.2412" y2="43.7856">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.7362" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="45.5" y2="53.8766">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#6d6e70"/>
+</linearGradient>
+<path d="M 48.09375 27.177956 C 36.472763 27.177956 27.058262 36.427124 27.058262 47.84375 C 27.058262 59.25706 36.472763 68.509544 48.09375 68.509544 C 49.78719 68.509544 54.461517 67.642166 55.894257 67.06774 C 58.528866 67.94815 60.574177 67.600624 61.957207 66.624115 C 63.3082 65.66859 63.81428 63.06189 64.02748 61.337517 C 67.20226 57.72087 69.129234 52.99587 69.129234 47.84375 C 69.129234 36.42823 59.714733 27.177954 48.093742 27.177954 z M 47.871933 29.543983 C 58.10495 29.543983 66.39351 37.83255 66.39351 48.065563 C 66.39351 53.145065 64.34159 57.76117 61.03297 61.1157 C 61.12674 61.387203 61.180847 61.66446 61.180847 61.965992 C 61.180847 63.455067 59.98995 64.66474 58.482098 64.66474 C 57.93524 64.66474 57.42904 64.45788 57.003326 64.18414 C 56.992817 64.17994 56.976536 64.188545 56.96636 64.18414 C 54.276917 65.71093 51.183857 66.624115 47.87193 66.624115 C 37.638916 66.624115 29.31338 58.29858 29.31338 48.065567 C 29.31338 37.83255 37.638916 29.543987 47.87193 29.543987 z M 47.87193 30.727003 C 38.278263 30.727003 30.496391 38.4719 30.496391 48.065567 C 30.496391 57.659233 38.278263 65.4411 47.87193 65.4411 C 50.86995 65.4411 53.696037 64.67156 56.15303 63.333855 C 56.059013 63.177692 55.9544 63.02641 55.89425 62.853256 C 55.79372 62.574883 55.746372 62.277508 55.746372 61.965996 C 55.746372 60.47692 56.979763 59.26724 58.482098 59.26724 C 59.083027 59.26724 59.62549 59.46446 60.07177 59.784813 C 60.188015 59.865704 60.268463 59.98197 60.367523 60.080566 C 63.36115 56.95725 65.2105 52.7385 65.2105 48.065563 C 65.2105 38.471897 57.4656 30.727 47.871937 30.727 z M 48.833138 35.82875 C 50.59617 36.5048 51.147907 38.607334 51.08826 39.340828 C 51.08826 39.340828 50.91652 40.97734 49.942215 41.59595 C 49.747795 41.787056 48.397175 42.023018 48.463448 42.59412 C 48.45685 42.69023 48.49983 43.061382 48.537388 43.14866 C 48.98477 43.53087 51.686253 43.3285 52.382187 43.370472 C 53.217308 43.35501 54.161423 43.53256 54.97003 43.666225 C 55.415207 43.692738 55.663017 43.766605 55.709415 43.814102 C 55.653076 43.849453 55.319324 44.0044 54.748215 44.072887 C 54.40246 44.120388 53.86095 44.331673 53.86095 44.331673 C 53.86095 44.331673 54.159138 47.91806 50.607662 49.766148 C 50.34807 50.03347 48.90708 50.320686 48.90708 50.320686 L 48.79617 51.725517 L 48.79617 51.76249 C 52.959618 51.801144 55.152 55.5634 55.265785 58.08422 C 55.284565 58.507305 55.256485 58.899975 55.154877 59.230267 C 55.122837 59.242416 55.106342 59.250668 55.080936 59.267235 C 55.110756 59.121414 55.108627 58.76668 55.006996 58.30603 C 54.815887 57.43225 54.291912 56.14635 53.158535 55.052746 C 52.149982 54.07733 50.661194 53.1746 48.426476 53.056404 C 45.119137 53.11937 43.60258 54.758537 42.178677 57.640587 C 41.800884 58.343147 41.5502 59.304203 41.5502 59.304203 L 41.402325 59.267235 C 41.402325 59.267235 41.22904 57.724026 41.254448 57.04908 C 41.394737 55.79088 42.43746 54.572144 42.43746 54.572144 C 42.43746 54.572144 43.695744 53.17394 45.136215 52.612778 C 45.536102 52.434925 46.688923 52.169144 46.688923 52.169144 C 46.688923 52.169144 47.754845 51.86691 47.871937 51.725513 C 47.856476 51.621674 47.68709 50.28371 47.68709 50.28371 C 47.68709 50.28371 46.114647 49.742283 45.43197 49.322514 C 44.40243 48.520535 43.361694 46.032253 43.361694 46.032253 L 43.435635 45.995285 C 43.435635 45.995285 44.89909 48.274933 46.43014 48.58313 C 46.49311 48.60522 47.44208 48.83264 47.46528 48.731007 C 47.389057 47.95554 47.502247 44.479546 47.502247 44.479546 C 47.502247 44.479546 44.00232 44.28255 43.99017 44.2947 C 43.97802 44.30685 43.139584 44.23777 42.881092 44.33167 C 42.738583 44.48632 42.894352 44.928738 42.881092 44.923176 C 42.866737 44.91547 42.802223 44.900047 42.770184 44.849236 C 42.738144 44.798416 41.819004 44.041473 41.735046 44.03591 C 41.510803 43.88789 40.539513 43.90688 40.367184 43.8141 C 40.2523 43.74561 40.293243 43.66622 40.293243 43.66622 C 40.293243 43.66622 41.69255 43.21825 42.252613 43.14865 C 42.876743 43.03377 44.54382 43.166252 44.877422 43.22259 C 45.033184 43.25021 45.815353 43.34565 46.467106 43.3335 C 46.999542 43.3236 47.724056 43.29653 47.724056 43.29653 L 47.871933 43.074715 L 48.056774 42.520176 C 48.056774 42.520176 48.205093 42.239 47.20649 42.002605 C 45.893047 41.630337 45.139893 40.154804 45.321056 38.93416 C 45.321056 38.93416 45.54899 36.791714 47.16952 36.1245 C 47.76824 35.91241 48.68511 35.92374 48.833138 35.828747 z M 48.05678 36.752975 C 48.019222 36.723145 47.320564 36.895847 46.356197 37.49236 C 45.706657 38.26783 45.801952 38.37881 46.060444 39.192944 C 46.079224 39.765156 46.27217 40.012085 46.430138 40.26505 C 46.60136 40.505863 47.35798 41.255527 48.16769 41.263214 C 48.918858 41.263214 49.94884 41.048546 50.49675 39.969296 C 51.221405 38.060448 49.424644 37.085697 49.424644 37.085697 C 49.424644 37.085697 48.451145 36.72756 48.05678 36.752975 z M 53.30641 44.25773 C 53.03384 44.25633 52.633713 44.314 52.16037 44.33167 C 50.77955 44.38801 48.94405 44.442577 48.94405 44.442577 L 48.94405 44.923176 C 48.94405 44.923176 48.841312 47.82585 48.94405 48.6201 C 49.04678 48.87307 49.033817 48.91585 49.20283 48.91585 C 50.97028 48.712593 52.640896 46.996395 53.269447 45.69953 C 53.509163 44.92959 53.571247 44.523804 53.60217 44.40561 C 53.709873 44.303974 53.57899 44.259113 53.306416 44.257732 z M 58.075447 59.895714 C 57.308815 59.895714 56.670616 60.503574 56.670616 61.263577 C 56.670616 62.01806 57.3044 62.63144 58.075447 62.63144 C 58.84208 62.63144 59.44331 62.01916 59.44331 61.263577 C 59.44331 60.50689 58.844288 59.895714 58.075447 59.895714 z " fill="url(#linearGradient4072)" fill-opacity="1"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="26px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 26 26" width="26px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="12.3452" x2="12.3452" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="24" y2="2.1161">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14.7441" x2="14.7441" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="24" y2="2.1161">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="26.029" width="26.029"/>
+<path d="M 9.641 9.159 C 9.641 7.298 11.153999 5.7840004 13.014999 5.7840004 C 14.386999 5.7840004 15.563999 6.6100006 16.092 7.788 L 18.905 4.975 C 17.594 3.133 15.449 1.928 13.017 1.928 C 9.023001 1.928 5.787 5.164 5.787 9.158 C 5.787 10.731 6.6850004 13.382999 7.861 16.019001 L 11.645 12.235001 C 10.466 11.709 9.641 10.53 9.641 9.159 z " fill="#dedede" fill-opacity="1"/>
+<path d="M 20.141 7.983 L 9.244 18.878 C 10.762 21.775 12.349001 24.102 13.015 24.102 C 14.461 24.102 20.245 13.152001 20.245 9.161001 C 20.245 8.758001 20.204 8.367002 20.141 7.983001 z " fill="#dedede" fill-opacity="1"/>
+<rect fill="#fa664b" height="1.001" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -5.3845 13.0011)" width="30" x="-1.999" y="12.5"/>
+</svg>

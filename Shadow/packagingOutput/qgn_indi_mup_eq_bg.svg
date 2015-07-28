@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="396px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 27 396" width="27px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(0,-1,1,0,-443.4961,-80.5859)" gradientUnits="userSpaceOnUse" x1="-278.08401" x2="-278.08401" y1="447.2373" y2="459.65509">
+<stop offset="0" stop-color="#1d1d1b" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#1d1d1b" stop-opacity="0.05"/>
+</linearGradient>
+<defs>
+<linearGradient gradientTransform="matrix(0,-1,1,0,-443.4961,-80.5859)" gradientUnits="userSpaceOnUse" x1="-278.0835" x2="-278.0835" y1="458.4502" y2="449.4502">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</defs>
+<rect fill="#ffffff" height="2" width="4.0009999" x="17.045" y="4"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="43"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="81"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="120"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="158"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="196"/>
+<rect fill="#ffffff" height="2" width="4.0019999" x="17.044001" y="235"/>
+<rect fill="#ffffff" height="2" width="4.0019999" x="17.044001" y="273"/>
+<rect fill="#ffffff" height="2" width="4.0019999" x="17.044001" y="311"/>
+<rect fill="#ffffff" height="2" width="4" x="17.045" y="350"/>
+<rect fill="#ffffff" height="2" width="4.0019999" x="17.044001" y="389"/>
+<path d="M 5.954 6.404 L 5.954 388.59198 C 5.954 392.473 8.227 392.99597 10.448999 392.99597 C 12.678 392.99597 14.954 392.47296 14.954 388.59198 L 14.954 6.404 C 14.954 2.5239997 12.681 2.0 10.461 2.0 C 8.233 2.0 5.954 2.524 5.954 6.404 L 5.954 6.404 z " fill="#c7c7c7" fill-opacity="0.78039216" stroke-opacity="0.3"/>
+<rect fill="none" height="396" width="27"/>
+</svg>

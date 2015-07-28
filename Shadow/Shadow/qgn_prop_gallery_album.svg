@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 57 57" width="57px" x="0px" y="0px" zoomAndPan="magnify">
+<path d="M 5.0 12.5 L 5.0 44.5 C 5.0 45.107 5.346 45.5 6.0 45.5 L 13.0 45.5 L 13.0 11.5 L 6.0 11.5 C 5.346 11.5 5.0 11.891 5.0 12.5 z M 50.0 11.5 L 15.0 11.5 L 15.0 45.5 L 50.0 45.5 C 50.652 45.5 51.0 45.107 51.0 44.5 L 51.0 12.5 C 51.0 11.891 50.652 11.5 50.0 11.5 z M 46.0 37.0 C 46.0 38.104 45.104 39.0 44.0 39.0 L 23.0 39.0 C 21.896 39.0 21.0 38.104 21.0 37.0 L 21.0 21.0 C 21.0 19.896 21.896 19.0 23.0 19.0 L 44.0 19.0 C 45.104 19.0 46.0 19.896 46.0 21.0 L 46.0 37.0 z M 24.0 36.0 L 43.0 36.0 L 43.0 22.0 L 24.0 22.0 L 24.0 36.0 z M 26.0 31.604 L 29.145 28.296 C 29.145 28.296 29.354 28.105 29.623 28.105 C 29.892 28.105 30.101002 28.296 30.101002 28.296 L 32.974003 30.916 L 37.396004 26.684 C 37.396004 26.684 37.607 26.491 37.875004 26.491 C 38.139004 26.491 38.348003 26.684 38.348003 26.684 L 41.0 29.514 L 41.0 34.0 L 26.0 34.0 L 26.0 31.604 z " fill="#575757" fill-opacity="1"/>
+<linearGradient gradientTransform="matrix(1 0 0 1 0.0801 -785.6914)" gradientUnits="userSpaceOnUse" x1="27.9204" x2="27.9204" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="830.1914" y2="796.1914">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</svg>

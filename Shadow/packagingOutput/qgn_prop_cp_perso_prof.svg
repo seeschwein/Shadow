@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="5.5"/>
+<rect color="#000000" display="inline" fill="#ff6d7c" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="5.5"/>
+<rect fill="none" height="57" width="67"/>
+<rect color="#000000" display="inline" fill="#ffffff" fill-opacity="0" fill-rule="nonzero" height="33" ry="0" stroke="none" stroke-width="1" visibility="visible" width="33" x="17" y="13"/>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.0005" x2="33.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="48.9512" y2="5.0493">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path d="M 31.72372 17.96034 L 26.026028 22.945374 L 20.408182 22.945374 C 19.097273 22.945374 18.02471 24.017937 18.02471 25.328848 L 18.02471 33.671005 C 18.02471 34.981915 19.097273 36.05448 20.408182 36.05448 L 26.02603 36.05448 L 31.72372 41.040703 C 32.709286 41.90233 33.51729 41.536465 33.51729 40.225555 L 33.51729 18.774296 C 33.51729 17.463385 32.70929 17.097525 31.723722 17.96034 z M 44.61592 14.97504 C 44.163063 14.288598 43.239468 14.099113 42.55303 14.550781 C 41.865395 15.003641 41.675907 15.927237 42.12877 16.61487 C 44.658825 20.453451 45.995953 24.909355 45.995953 29.499924 C 45.995953 34.090492 44.658825 38.54639 42.12877 42.38617 C 41.67591 43.07261 41.8654 43.9974 42.55303 44.449062 C 42.805676 44.61591 43.089306 44.69456 43.37175 44.69456 C 43.855595 44.69456 44.3311 44.45979 44.617115 44.023617 C 47.46894 39.69642 48.975296 34.67325 48.975296 29.498734 C 48.975296 24.325403 47.46775 19.302237 44.615925 14.975042 z M 39.91691 19.823029 C 39.516487 19.10322 38.606 18.84938 37.889763 19.249804 C 37.171143 19.65142 36.916115 20.55833 37.31773 21.276949 C 38.721592 23.786743 39.462856 26.630226 39.462856 29.499928 C 39.462856 32.36963 38.721596 35.21311 37.31773 37.72172 C 36.916115 38.44034 37.172337 39.347248 37.889763 39.748863 C 38.11977 39.87757 38.36884 39.93835 38.615532 39.93835 C 39.137512 39.93835 39.644 39.66425 39.91691 39.17564 C 41.568657 36.22252 42.44101 32.876118 42.44101 29.49874 C 42.44101 26.121365 41.568653 22.776155 39.91691 19.823032 z " fill="#ffffff" fill-opacity="1"/>
+</svg>

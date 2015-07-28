@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="26px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 34 26" width="34px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<rect fill="none" height="26" width="34"/>
+<radialGradient cx="17.0005" cy="13" gradientUnits="userSpaceOnUse" r="12.8502">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.4"/>
+</radialGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="17.0005" x2="17.0005" y1="2.8916" y2="24.8818">
+<stop offset="0" stop-color="#464646"/>
+<stop offset="0.0297" stop-color="#444444"/>
+<stop offset="0.377" stop-color="#2d2e2e"/>
+<stop offset="0.7072" stop-color="#202121"/>
+<stop offset="1" stop-color="#1b1c1c"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="17.0005" x2="17.0005" y1="-1.6313" y2="23.3137">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="17.0005" x2="17.0005" y1="0.876" y2="13.5886">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<rect fill="none" height="21.11" width="21.11" x="6.39" y="2.198"/>
+<path color="#000000" d="M 28.160652 13.0 C 28.160652 19.163858 23.163858 24.160652 17.0 24.160652 C 10.836143 24.160652 5.839349 19.163858 5.839349 13.0 C 5.839349 6.836142 10.836143 1.8393484 17.0 1.8393484 C 23.163858 1.8393484 28.160652 6.836142 28.160652 13.0 z " display="inline" fill="none" stroke="#727272" stroke-dasharray="none" stroke-miterlimit="4" stroke-opacity="1" stroke-width="0.92851341" transform="matrix(1.0769904,0,0,1.0769904,-1.3088368,-1.0008752)" visibility="visible"/>
+<rect fill="#cccbcb" height="10" width="10" x="11.945" y="7.7530003"/>
+</svg>

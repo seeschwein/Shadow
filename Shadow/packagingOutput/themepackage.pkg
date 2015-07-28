@@ -1,0 +1,45 @@
+; File created with SkinCompiler v0.0.228
+;
+;
+; Installation file for themepackage skin
+;
+&EN
+;
+; Package header
+;
+#{"Shadow"},(0xA00000EB),1,0,0,TYPE=SP
+;
+; Supports Symbian Release 2.11
+; This line indicates that this installation is for SR2.11 platform.
+; This line must appear exactly as shown below in the sis file.
+; If this line is missing or incorrect,the sis file will not be able
+; to be installed on SR2.11 platform.
+;
+[0x2003A678],0,0,0,{"Series60v5.5"}
+;
+; Requires Series 60 Skins Support
+;
+(0xA00000EB),0,0,0,{"Series60SkinsSupport"}
+;
+; Requires Series 60 Scalable Skins Support
+;
+(0x10207113),0,0,0,{"Series60ScalableSkinsSupport"}
+;
+; Non-localised vendor name
+;
+:"Unknown Vendor"
+;
+; Localised vendor name
+;
+%{"Vendor-EN"}
+;
+; Files to install
+;
+"themepackage.mbm" - "!:\resource\skins\5ceda05cce4bbfe4\themepackage.mbm"
+"themepackage.mif" - "!:\resource\skins\5ceda05cce4bbfe4\themepackage.mif"
+"themepackage.skn" - "!:\private\10207114\import\5ceda05cce4bbfe4\themepackage.skn"
+;Dummy entry for the possible skin .ini file,so that it gets removed on uninstall
+"" - "!:\private\10207114\import\5ceda05cce4bbfe4\5ceda05cce4bbfe4.ini",FN
+;
+; End of file
+;

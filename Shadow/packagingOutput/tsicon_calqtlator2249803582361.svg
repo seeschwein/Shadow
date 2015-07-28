@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient id="linearGradient3838">
+<stop offset="0" stop-color="#3aa7ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#3a84ff" stop-opacity="1"/>
+</linearGradient>
+<linearGradient>
+<stop offset="0" stop-color="#fbb922" stop-opacity="1"/>
+<stop offset="1" stop-color="#fba922" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="48.677967" x2="48.677967" y1="8.1355934" y2="87.93644">
+<stop offset="0" stop-color="#22f8fb" stop-opacity="1"/>
+<stop offset="1" stop-color="#fba922" stop-opacity="1"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(0,1,-1,0,96,0)" gradientUnits="userSpaceOnUse" id="linearGradient3844" x1="8" x2="88" y1="48" y2="48">
+<stop offset="0" stop-color="#3aa7ff" stop-opacity="1"/>
+<stop offset="1" stop-color="#3a84ff" stop-opacity="1"/>
+</linearGradient>
+</defs>
+<path d="M 88.0 49.0 C 88.0 78.633 77.637 89.0 48.0 89.0 C 18.365 89.0 8.0 78.633 8.0 49.0 C 8.0 19.365 18.365 9.0 48.0 9.0 C 77.637 9.0 88.0 19.365 88.0 49.0 z " fill-opacity="0.4"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="12.2891" y2="67.2842">
+<stop offset="0" stop-color="#f9d641"/>
+<stop offset="1" stop-color="#d68612"/>
+</linearGradient>
+<path d="M 48.0 88.0 C 18.367 88.0 8.0 77.637 8.0 48.0 C 8.0 18.365 18.367 8.0 48.0 8.0 C 77.635 8.0 88.0 18.365 88.0 48.0 C 88.0 77.637 77.635 88.0 48.0 88.0 z " fill="url(#linearGradient3844)" fill-opacity="1"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="24.6416" y2="71.3152">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="48.0005" x2="48.0005" y1="46.3408" y2="37.9269">
+<stop offset="0" stop-color="#a09c98"/>
+<stop offset="0.2593" stop-color="#a09c98"/>
+<stop offset="1" stop-color="#f4f5e9" stop-opacity="0.0714"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="24.6421" y2="71.3157">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="48.0005" x2="48.0005" y1="64.3408" y2="55.9269">
+<stop offset="0" stop-color="#a09c98"/>
+<stop offset="0.2593" stop-color="#a09c98"/>
+<stop offset="1" stop-color="#f4f5e9" stop-opacity="0.0714"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" y1="8.2534" y2="87.4985">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<rect fill="none" height="96" width="96"/>
+<g transform="matrix(1.000012,0,0,1,-2.8911328e-4,0)">
+<path d="M 55.705753 61.83861 L 76.29724 61.83861 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+<path d="M 55.705753 71.588615 L 76.29724 71.588615 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+</g>
+<g>
+<path d="M 20.48138 31.986244 L 41.07287 31.986244 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+<path d="M 30.777124 21.690275 L 30.777124 42.28176 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+</g>
+<path d="M 55.706112 32.28848 L 76.29761 32.28848 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+<g>
+<path d="M 23.6349 59.025055 L 38.19529 73.58544 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+<path d="M 38.19544 59.024895 L 23.635063 73.58527 " fill="none" stroke="#f3f3f3" stroke-dasharray="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="4" stroke-opacity="1" stroke-width="3.17222762"/>
+</g>
+</svg>

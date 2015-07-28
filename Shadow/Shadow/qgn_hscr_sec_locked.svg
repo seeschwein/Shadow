@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.4999981" y="5.4999986"/>
+<rect color="#000000" display="inline" fill="#01a0f3" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="5.5"/>
+<rect color="#000000" display="inline" fill="#ffffff" fill-opacity="0" fill-rule="nonzero" height="33" ry="0" stroke="none" stroke-width="1" visibility="visible" width="33" x="17" y="13"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="49.9551" y2="6.4497">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path d="M 49.21363 28.886784 C 47.472107 26.76138 41.10816 19.688557 33.499386 19.688557 C 25.894293 19.688557 19.526669 26.76138 17.786362 28.886782 C 17.479755 29.26084 17.479755 29.73915 17.786362 30.113213 C 19.526665 32.23739 25.89429 39.31144 33.499386 39.31144 C 41.10693 39.31144 47.472107 32.23739 49.21363 30.113214 C 49.52024 29.739153 49.52024 29.25962 49.21363 28.886784 z M 33.499382 36.613297 C 28.036863 36.613297 23.012178 31.880505 20.82668 29.498775 C 23.010952 27.118273 28.03809 22.386707 33.499382 22.386707 C 38.96068 22.386707 43.986584 27.118273 46.17086 29.498775 C 43.986588 31.880505 38.961903 36.613297 33.499382 36.613297 z M 33.499382 24.594282 C 30.79265 24.594282 28.593662 26.794498 28.593662 29.500002 C 28.593662 32.20673 30.79265 34.405724 33.499382 34.405724 C 36.20366 34.405724 38.405106 32.20673 38.405106 29.500002 C 38.405106 26.794498 36.20489 24.594282 33.499382 24.594282 z M 33.499382 31.952862 C 32.145405 31.952862 31.046522 30.85398 31.046522 29.500002 C 31.046522 28.148476 32.145405 27.047142 33.499382 27.047142 C 34.85091 27.047142 35.952244 28.148476 35.952244 29.500002 C 35.952244 30.852757 34.85091 31.952862 33.499382 31.952862 z " fill="#ffffff"/>
+</svg>

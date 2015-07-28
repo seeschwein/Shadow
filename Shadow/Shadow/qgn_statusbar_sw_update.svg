@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="5 0 57 57" width="57px" x="0px" y="0px" zoomAndPan="magnify">
+<defs/>
+<rect color="#000000" display="inline" fill="#646464" fill-opacity="0.58823532" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="4.5"/>
+<path d="M 23.90625 4.5 L 23.90625 24.9375 L 19.125 24.9375 C 18.787449 24.93798 18.442728 25.095984 18.28125 25.40625 C 18.119772 25.716516 18.19448 26.09879 18.40625 26.375 L 27.5 38.8125 C 27.53448 38.85688 27.56794 38.94294 27.65625 39.03125 C 27.976824 39.348667 28.409843 39.527225 28.84375 39.5 C 29.311003 39.46656 29.714567 39.189857 30.0 38.8125 L 39.0625 26.375 C 39.278645 26.09188 39.314884 25.701227 39.15625 25.40625 C 38.997616 25.111273 38.682465 24.93697 38.34375 24.9375 L 33.5625 24.9375 L 33.5625 4.5 L 23.90625 4.5 z " fill="#ffffff" fill-opacity="1" transform="translate(5,0)"/>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -117.6001 -182.9004)" gradientUnits="userSpaceOnUse" x1="151.6006" x2="151.6006" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-232.9004" y2="-188.9004">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</svg>

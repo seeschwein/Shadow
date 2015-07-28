@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="10px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 10 10" width="10px" x="0px" y="0px" zoomAndPan="magnify">
+<linearGradient gradientTransform="matrix(-1 0 0 -1 297.4805 -401.0195)" gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="293.877" x2="293.877" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-405.6299" y2="-448.3496">
+<stop offset="0" stop-color="#50b4fb"/>
+<stop offset="1" stop-color="#50b4fb"/>
+</linearGradient>
+<path d="M 0.0 2.795 L 0.0 10.0 L 7.206 10.0 L 7.206 8.795 C 7.206 5.494 4.5059996 2.795 1.2059999 2.795 L 0.0 2.795 z " fill="url(#SVGID_1_)"/>
+<rect fill="none" height="10" width="10"/>
+<linearGradient gradientTransform="matrix(-1 0 0 -1 297.4805 -401.0195)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="293.8779" x2="293.8779" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-403.9512" y2="-410.7736">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 7.205 9.873 L 7.205 8.795 C 7.205 5.494 4.506 2.795 1.2049999 2.795 L 0.0 2.795 L 0.0 3.873 L 1.205 3.873 C 4.506 3.873 7.205 6.572 7.205 9.873 z " fill="url(#SVGID_2_)" fill-opacity="0.15"/>
+</svg>

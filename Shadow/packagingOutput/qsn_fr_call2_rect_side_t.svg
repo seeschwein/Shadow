@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="15.999px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 208.002 15.999" width="208.002px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(-1,0,0,-1,-1726.8608,-2394.7891)" gradientUnits="userSpaceOnUse" x1="-1953.8064" x2="-1619.6638" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-2403.7891" y2="-2403.7891">
+<stop offset="0" stop-color="#2e2e2e"/>
+<stop offset="0.5" stop-color="#808080"/>
+<stop offset="0.865" stop-color="#2e2e2e"/>
+<stop offset="1" stop-color="#2e2e2e"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(-1,0,0,1,-2341.6489,-333.5557)" gradientUnits="userSpaceOnUse" x1="-2549.6506" x2="-2341.6487" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="343.0537" y2="343.0537">
+<stop offset="0" stop-color="#2e2e2e"/>
+<stop offset="0.5" stop-color="#cccccc"/>
+<stop offset="1" stop-color="#2e2e2e"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="16" width="208.002" x="0" y="0"/>
+<path d="M 208.0 10.0 L 0.0 10.0 L 0.0 16.0 L 208.0 16.0 L 208.0 10.0 z " fill-opacity="0.02999998" transform="translate(-2.0791996e-6,0)"/>
+<path d="M 0.0 7.0 L 0.0 10.0 L 208.0 10.0 L 208.0 7.0 L 0.0 7.0 z " fill="#646464" fill-opacity="0.19607843" transform="translate(-2.0791996e-6,0)"/>
+<path d="M 208.0 10.0 L 0.0 10.0 L 0.0 16.0 L 208.0 16.0 L 208.0 10.0 z " fill="#2e2e2e" fill-opacity="0.78431374" transform="translate(-2.0791996e-6,0)"/>
+<path d="M 0.0 8.0 L 0.0 10.0 L 208.0 10.0 L 208.0 8.0 L 0.0 8.0 z " fill="#646464" fill-opacity="0.19607843" transform="translate(-2.0791996e-6,0)"/>
+<polygon fill="#646464" fill-opacity="0.19607843" points="0,9 208.002,9 0,9 "/>
+<polygon fill="#646464" fill-opacity="0.19607843" points="0,9 208.002,9 0,9 "/>
+<rect fill="#646464" fill-opacity="0.19607843" height="1" width="208.002" x="0" y="8.9980001"/>
+</svg>

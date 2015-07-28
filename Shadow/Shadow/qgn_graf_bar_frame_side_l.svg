@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="13px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 28 13" width="28px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-101.02,-44.4805)" gradientUnits="userSpaceOnUse" x1="115.0195" x2="115.0195" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-48.007301" y2="-53.923901">
+<stop offset="0" stop-color="#1d1d1b" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#1d1d1b" stop-opacity="0.05"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4102001" y2="3.4102001">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4.5346999" y2="-2.0924001">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4091997" y2="3.4092">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-101.02,-44.4805)" gradientUnits="userSpaceOnUse" x1="115.0195" x2="115.0195" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-48.007301" y2="-53.923901">
+<stop offset="0" stop-color="#1d1d1b" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#1d1d1b" stop-opacity="0.05"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4102001" y2="3.4102001">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4.5346999" y2="-2.0924001">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4091997" y2="3.4092">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4091997" y2="3.4092">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4.5346999" y2="-2.0924001">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" id="linearGradient3064" x1="14" x2="14" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="9.4102001" y2="3.4102001">
+<stop offset="0" stop-color="#c2c2c2"/>
+<stop offset="1" stop-color="#c2c2c2" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1,0,0,-1,-101.02,-44.4805)" gradientUnits="userSpaceOnUse" x1="115.0195" x2="115.0195" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-48.007301" y2="-53.923901">
+<stop offset="0" stop-color="#1d1d1b" stop-opacity="0.15"/>
+<stop offset="1" stop-color="#1d1d1b" stop-opacity="0.05"/>
+</linearGradient>
+</defs>
+<rect fill="#c2c2c2" fill-opacity="1" height="5.8979998" width="28" x="0" y="3.5510001"/>
+<rect fill="url(#linearGradient3064)" fill-opacity="0.2" height="1.03" stroke-opacity="0.2" width="28" x="0" y="3.5510001"/>
+<rect fill="none" height="13" width="28" x="0" y="0"/>
+</svg>

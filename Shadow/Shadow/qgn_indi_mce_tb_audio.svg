@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<rect color="#000000" display="inline" fill="#353535" fill-opacity="0.58823529" fill-rule="nonzero" height="27.533897" ry="4.7137108" stroke="none" visibility="visible" width="27.533897" x="0.9830513" y="1.2331679"/>
+<path d="M 21.50006 7.157504 C 19.278423 6.584269 17.071327 6.246419 15.374467 6.002725 C 15.374467 6.002725 14.428073 5.9058013 14.428073 6.893733 L 14.428073 18.64438 C 13.775222 18.350838 13.009521 18.172913 12.182899 18.172913 C 9.869186 18.172913 7.999939 19.475847 7.999939 21.087551 C 7.999939 22.697184 9.869186 24.000118 12.182899 24.000118 C 14.488997 24.000118 16.35686 22.697184 16.35686 21.087551 L 16.35686 10.940309 C 18.278028 11.233156 20.037891 11.632622 21.50006 12.039011 L 21.50006 7.157505 z " fill="#dedede"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="51px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="8.309 0 15.691 51" width="15.691px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientTransform="translate(-686.0132,1409.1914)" gradientUnits="userSpaceOnUse" x1="667.06708" x2="1001.2087" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-1402.1782" y2="-1402.1782">
+<stop offset="0" stop-color="#2e2e2e"/>
+<stop offset="0.5" stop-color="#636363"/>
+<stop offset="0.865" stop-color="#2e2e2e"/>
+<stop offset="1" stop-color="#2e2e2e"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="38.574154" transform="scale(-1,1)" width="16" x="-24.309" y="-7.1054274e-015"/>
+<path d="M 9.0 0.0 L 9.0 38.5625 L 9.0 39.5625 C 9.0 40.252 8.846875 40.901966 8.59375 41.5 C 8.340625 42.098034 7.98375 42.641125 7.53125 43.09375 C 7.07875 43.546375 6.535625 43.90297 5.9375 44.15625 C 5.339375 44.40953 4.69 44.5625 4.0 44.5625 L 3.625 44.5625 L 0.0 44.5625 L 0.0 47.5625 L 4.0 47.5625 C 8.416 47.5625 12.0 43.9745 12.0 39.5625 L 12.0 38.5625 L 12.0 0.0 L 9.0 0.0 z " fill="#646464" fill-opacity="0.19607843" transform="translate(8.309,-2.47976e-8)"/>
+<path d="M 0.0 0.0 L 0.0 38.5625 L 0.0 44.5625 L 3.625 44.5625 L 4.0 44.5625 C 4.69 44.5625 5.339375 44.40953 5.9375 44.15625 C 6.535625 43.90297 7.07875 43.546375 7.53125 43.09375 C 7.98375 42.641125 8.340625 42.098034 8.59375 41.5 C 8.846875 40.901966 9.0 40.252 9.0 39.5625 L 9.0 38.5625 L 9.0 0.0 L 0.0 0.0 z " fill="#2e2e2e" fill-opacity="0.78431374" transform="translate(8.309,-2.47976e-8)"/>
+<path d="M 9.0 0.0 L 9.0 38.5625 L 9.0 39.5625 C 9.0 40.252 8.846875 40.901966 8.59375 41.5 C 8.340625 42.098034 7.98375 42.641125 7.53125 43.09375 C 7.07875 43.546375 6.535625 43.90297 5.9375 44.15625 C 5.339375 44.40953 4.69 44.5625 4.0 44.5625 L 3.625 44.5625 L 0.0 44.5625 L 0.0 45.5625 L 0.0 46.5625 L 4.0 46.5625 C 7.861 46.5625 11.0 43.4195 11.0 39.5625 L 11.0 38.5625 L 11.0 0.0 L 9.0 0.0 z " fill="#646464" fill-opacity="0.19607843" transform="translate(8.309,-2.47976e-8)"/>
+<path d="M 0.0 44.5625 L 0.0 45.5625 L 4.0 45.5625 C 7.313 45.5625 10.0 42.8715 10.0 39.5625 L 10.0 38.5625 L 10.0 0.0 L 9.0 0.0 L 9.0 38.5625 L 9.0 39.5625 C 9.0 42.3205 6.76 44.5625 4.0 44.5625 L 0.0 44.5625 z " fill="#646464" fill-opacity="0.19607843" transform="translate(8.309,-2.47976e-8)"/>
+</svg>

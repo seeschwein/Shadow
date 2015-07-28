@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="12px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 12 12" width="12px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-205.8745" y2="-163.5344">
+<stop offset="0" stop-color="#3f3f3f"/>
+<stop offset="0.2858" stop-color="#303030"/>
+<stop offset="0.6599" stop-color="#222222"/>
+<stop offset="1" stop-color="#1e1e1e"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="5.9995" x2="5.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5.0029" y2="6.6869">
+<stop offset="0" stop-color="#282828"/>
+<stop offset="0.2332" stop-color="#1c1c1c"/>
+<stop offset="0.5744" stop-color="#121212"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+</defs>
+<path color="#000000" d="M 12.0 12.0 C 11.950142 5.377961 6.622039 0.049858 0.0 0.0 L 0.0 12.0 L 12.0 12.0 z " display="inline" fill="#50b4fb" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible"/>
+</svg>

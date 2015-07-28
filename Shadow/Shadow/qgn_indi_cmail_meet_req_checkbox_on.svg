@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="27px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 27 27" width="27px" x="0px" y="0px" zoomAndPan="magnify">
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="20.7656" x2="20.7656" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="18.992201" y2="25.341801">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="16.221701" x2="16.221701" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="18.3438" y2="19.6455">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="13.5005" x2="13.5005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="25.341801" y2="4.3413">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="13.5532" x2="13.5532" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5.2402" y2="1.6582">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="1" stop-color="#fcfcf9"/>
+</linearGradient>
+</defs>
+<rect fill="none" height="27.000999" width="27" x="0" y="-0.001"/>
+<rect fill="none" height="27" width="27" x="0" y="0"/>
+<rect fill="none" height="27" width="27" x="0" y="0"/>
+<g fill="#dedede" fill-opacity="1" transform="matrix(0.7617823,0,0,0.7617823,3.0000007,2.9999999)">
+<path d="M 6.59375 3.0 C 4.5963206 3.0 3.0 4.623313 3.0 6.59375 L 3.0 20.40625 C 3.0 22.40368 4.5963206 24.0 6.59375 24.0 L 20.40625 24.0 C 22.376688 24.0 24.0 22.40368 24.0 20.40625 L 24.0 6.59375 C 24.0 4.623313 22.376688 3.0 20.40625 3.0 L 6.59375 3.0 z M 17.34375 8.34375 C 18.261488 8.2627735 18.941835 9.489959 18.375 10.21875 L 12.75 18.1875 C 12.345116 18.808325 11.271369 18.843828 10.8125 18.25 L 8.625 15.3125 C 8.247108 14.82664 8.362146 14.002893 8.875 13.625 C 9.387854 13.247108 10.184608 13.389138 10.5625 13.875 L 11.75 15.46875 L 16.4375 8.84375 C 16.626448 8.546832 16.992847 8.370743 17.34375 8.34375 z " fill="#dedede" fill-opacity="1" fill-rule="nonzero" stroke="none" transform="matrix(1.312711,0,0,1.312711,-3.9381339,-3.9381328)"/>
+</g>
+</svg>

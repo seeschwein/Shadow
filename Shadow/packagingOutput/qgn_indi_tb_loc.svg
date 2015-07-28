@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="30px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 30 30" width="30px" x="0px" y="0px" zoomAndPan="magnify">
+<path d="M 15.0 29.0 C 12.309 29.0 6.0 15.683 6.0 10.0 C 6.0 5.037 10.037001 1.0 15.0 1.0 C 19.963 1.0 24.0 5.037 24.0 10.0 C 24.0 15.683 17.691 29.0 15.0 29.0 L 15.0 29.0 z M 15.0 7.0 C 13.346 7.0 12.0 8.346 12.0 10.0 C 12.0 11.654 13.346 13.0 15.0 13.0 C 16.654 13.0 18.0 11.654 18.0 10.0 C 18.0 8.346 16.654 7.0 15.0 7.0 L 15.0 7.0 z " fill-opacity="0.15" stroke-opacity="0.15"/>
+<path d="M 15.0 1.0 C 10.582 1.0 7.0 4.677 7.0 9.0 C 7.0 15.0 13.4 27.0 15.0 27.0 C 16.6 27.0 23.0 15.0 23.0 9.0 C 23.0 4.677 19.418 1.0 15.0 1.0 z M 15.0 13.0 C 12.795 13.0 11.0 11.205 11.0 9.0 C 11.0 6.795 12.795 5.0 15.0 5.0 C 17.205 5.0 19.0 6.795 19.0 9.0 C 19.0 11.205 17.205 13.0 15.0 13.0 z " fill-opacity="0.3" stroke-opacity="0.3"/>
+<path d="M 15.0 2.0 C 10.582 2.0 7.0 5.677 7.0 10.0 C 7.0 16.0 13.4 28.0 15.0 28.0 C 16.6 28.0 23.0 16.0 23.0 10.0 C 23.0 5.677 19.418 2.0 15.0 2.0 z M 15.0 14.0 C 12.795 14.0 11.0 12.205 11.0 10.0 C 11.0 7.795 12.795 6.0 15.0 6.0 C 17.205 6.0 19.0 7.795 19.0 10.0 C 19.0 12.205 17.205 14.0 15.0 14.0 z " fill="#dedede"/>
+<rect fill="none" height="30" width="30"/>
+<rect fill="none" height="30" width="30"/>
+</svg>

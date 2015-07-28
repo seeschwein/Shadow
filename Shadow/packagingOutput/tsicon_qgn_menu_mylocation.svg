@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="96px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 96 96" width="96px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="96" width="96"/>
+<path d="M 88.0 49.0 C 88.0 78.635 77.639 89.0 48.0 89.0 C 18.367 89.0 8.0 78.635 8.0 49.0 C 8.0 19.367 18.367 9.0 48.0 9.0 C 77.637 9.0 88.0 19.367 88.0 49.0 z " fill-opacity="0.4" stroke-opacity="0.4"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="8" y2="88.0005">
+<stop offset="0" stop-color="#fafcef"/>
+<stop offset="0.3232" stop-color="#fafcef"/>
+<stop offset="1" stop-color="#d0cbc5"/>
+</linearGradient>
+<path d="M 88.0 48.0 C 88.0 77.635 77.639 88.0 48.0 88.0 C 18.367 88.0 8.0 77.635 8.0 48.0 C 8.0 18.367 18.367 8.0 48.0 8.0 C 77.637 8.0 88.0 18.367 88.0 48.0 z " fill="#fbf0c6" fill-opacity="1"/>
+<linearGradient gradientTransform="matrix(1 0 0 1 193.9253 -815.8408)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="-145.9253" x2="-145.9253" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="824.0938" y2="903.3385">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 48.0 8.0 C 18.367 8.0 8.0 18.367 8.0 48.0 C 8.0 77.635 18.367 88.0 48.0 88.0 C 77.639 88.0 88.0 77.635 88.0 48.0 C 88.0 18.367 77.637 8.0 48.0 8.0 z M 48.0 87.0 C 18.842 87.0 9.0 77.158 9.0 48.0 C 9.0 18.842005 18.842 9.0 48.0 9.0 C 77.16 9.0 87.0 18.842 87.0 48.0 C 87.0 77.158005 77.16 87.0 48.0 87.0 z " fill="url(#SVGID_2_)" fill-opacity="0.15"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="47.9995" x2="47.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="12" y2="84.0005">
+<stop offset="0" stop-color="#9bd22d"/>
+<stop offset="1" stop-color="#195b19"/>
+</linearGradient>
+<path d="M 81.826 29.245 L 66.363 44.707 L 83.065994 61.409 C 83.71 57.549 84.0 53.104 84.0 48.0 C 84.0 40.348 83.35 34.176 81.826 29.245 z M 12.066 44.138 C 12.026 45.385 12.0 46.663 12.0 48.0 C 12.0 62.18 14.232 71.283005 20.137 76.793 L 32.43 64.5 L 12.066 44.138 z M 76.793 20.137 C 71.283 14.232 62.18 12.0 48.0 12.0 C 26.944 12.0 17.066 16.911 13.566002 31.495 L 39.5 57.43 L 76.793 20.137 z M 46.57 64.5 L 64.505 82.434 C 72.479 80.52 77.567 76.702995 80.532 70.19 L 60.707 50.363 L 46.57 64.5 z M 29.245 81.825 C 34.176 83.35 40.348 84.0 48.0 84.0 C 49.336 84.0 50.615 83.974 51.862 83.934 L 39.5 71.57 L 29.245 81.825 z " fill="#48a524" fill-opacity="1"/>
+<path d="M 38.688 55.0 C 34.595 55.0 25.688 38.061 25.688 32.0 C 25.688 24.832 31.52 19.0 38.688 19.0 C 45.856 19.0 51.688 24.832 51.688 32.0 C 51.688 38.061 42.78 55.0 38.688 55.0 L 38.688 55.0 z M 38.688 29.0 C 37.034 29.0 35.688 30.346 35.688 32.0 C 35.688 33.654 37.034 35.0 38.688 35.0 C 40.342 35.0 41.688 33.654 41.688 32.0 C 41.688 30.346 40.342 29.0 38.688 29.0 L 38.688 29.0 z " fill-opacity="0.05"/>
+<path d="M 38.688 54.0 C 35.436 54.0 26.688 37.962997 26.688 32.0 C 26.688 25.383 32.071 20.0 38.688 20.0 C 45.305 20.0 50.688 25.383 50.688 32.0 C 50.688 37.963 41.939 54.0 38.688 54.0 L 38.688 54.0 z M 38.688 28.0 C 36.482 28.0 34.688 29.795 34.688 32.0 C 34.688 34.205 36.482 36.0 38.688 36.0 C 40.894 36.0 42.688 34.205 42.688 32.0 C 42.688 29.794998 40.894 28.0 38.688 28.0 L 38.688 28.0 z " fill-opacity="0.1"/>
+<path d="M 38.688 21.0 C 32.613 21.0 27.688 25.926 27.688 32.0 C 27.688 38.075 36.489 53.0 38.688 53.0 C 40.887 53.0 49.688 38.075 49.688 32.0 C 49.688 25.926 44.765 21.0 38.688 21.0 z M 38.688 37.0 C 35.93 37.0 33.688 34.758 33.688 32.0 C 33.688 29.242 35.93 27.0 38.688 27.0 C 41.446 27.0 43.688 29.242 43.688 32.0 C 43.688 34.758 41.445 37.0 38.688 37.0 z " fill-opacity="0.15"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="38.688" x2="38.688" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="51" y2="19.0005">
+<stop offset="0" stop-color="#cf1a2a"/>
+<stop offset="1" stop-color="#f2212d"/>
+</linearGradient>
+<path d="M 38.688 19.0 C 32.613 19.0 27.688 23.926 27.688 30.0 C 27.688 36.075 36.489 51.0 38.688 51.0 C 40.887 51.0 49.688 36.075 49.688 30.0 C 49.688 23.926 44.765 19.0 38.688 19.0 z M 38.688 35.0 C 35.93 35.0 33.688 32.758 33.688 30.0 C 33.688 27.242 35.93 25.0 38.688 25.0 C 41.446 25.0 43.688 27.242 43.688 30.0 C 43.688 32.758 41.445 35.0 38.688 35.0 z " fill="#ff5454" fill-opacity="1"/>
+</svg>

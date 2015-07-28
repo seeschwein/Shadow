@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="70px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 70 70" width="70px" x="0px" y="0px" zoomAndPan="magnify">
+<radialGradient cx="152.5" cy="-64" gradientTransform="matrix(1 0 0 -1 -117.5 -29)" gradientUnits="userSpaceOnUse" r="35">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0.4"/>
+</radialGradient>
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -117.5 -29)" gradientUnits="userSpaceOnUse" x1="152.499" x2="152.499" y1="-32.2217" y2="-77.737">
+<stop offset="0" stop-color="#555555"/>
+<stop offset="0.1952" stop-color="#404040"/>
+<stop offset="0.5095" stop-color="#252525"/>
+<stop offset="0.7881" stop-color="#151515"/>
+<stop offset="1" stop-color="#0f0f0f"/>
+</linearGradient>
+</defs>
+</svg>

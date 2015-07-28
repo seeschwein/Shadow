@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="60px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 58 60" width="58px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="none" height="60" width="58"/>
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 -1 -262.4805 -326.0195)" gradientUnits="userSpaceOnUse" x1="291.5664" x2="291.5664" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="-392.3267" y2="-287.4699">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<path color="#000000" d="M 19.34514 7.2611313 L 14.893398 30.820345 L 20.195473 31.520618 C 21.029123 30.207626 22.187908 29.09261 23.646822 28.269346 C 25.105713 27.446133 26.735514 27.068905 28.54874 27.068878 C 31.466528 27.068905 33.798687 27.965086 35.601498 29.819954 C 37.40426 31.674868 38.30253 34.213356 38.302555 37.422928 C 38.30253 40.79926 37.377167 43.53366 35.501457 45.57612 C 33.6257 47.61859 31.35815 48.627316 28.648775 48.62731 C 26.397882 48.627316 24.440866 47.924957 22.846508 46.47647 C 21.252125 45.027996 20.232977 42.850063 19.795317 39.973927 L 13.893005 40.47412 C 14.268149 44.329803 15.758314 47.44352 18.394766 49.77776 C 21.031204 52.112007 24.480465 53.27913 28.648775 53.27913 C 33.734077 53.279125 37.71479 51.386723 40.653473 47.676937 C 43.071053 44.65493 44.304867 41.0702 44.3049 36.92273 C 44.304867 32.56688 42.90432 29.040504 40.15328 26.268562 C 37.402176 23.496674 34.05087 22.06695 30.049326 22.066916 C 27.027294 22.066948 24.147003 23.050665 21.39594 24.968052 L 23.8469 12.663239 L 42.15406 12.663239 L 42.15406 7.2611256 L 19.34514 7.2611256 z " display="inline" fill="#dedede" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-width="2" visibility="visible"/>
+</svg>

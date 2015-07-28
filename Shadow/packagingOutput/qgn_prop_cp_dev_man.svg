@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="5.5"/>
+<rect color="#000000" display="inline" fill="#f6da42" fill-opacity="0.58823528999999997" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" visibility="visible" width="48" x="9.5" y="5.5"/>
+<rect fill="none" height="57" width="67"/>
+<rect fill="none" height="46" width="46" x="10.5" y="5.5"/>
+<path d="M 44.630432 16.282606 L 39.760868 16.282606 L 39.760868 19.065216 C 39.760868 19.833214 39.13756 20.456518 38.36956 20.456518 L 28.630432 20.456518 C 27.862432 20.456518 27.23913 19.833214 27.23913 19.065216 L 27.23913 16.282606 L 22.369564 16.282606 C 21.601562 16.282606 20.978258 16.90591 20.978258 17.67391 L 20.978258 44.10869 C 20.978258 44.876698 21.601562 45.499996 22.369564 45.499996 L 44.630432 45.499996 C 45.39843 45.499996 46.021736 44.87669 46.021736 44.10869 L 46.021736 17.673908 C 46.021736 16.905909 45.39843 16.282604 44.630432 16.282604 z M 25.847824 24.63043 L 41.152172 24.63043 L 41.152172 26.717386 L 25.847824 26.717386 L 25.847824 24.63043 z M 25.847824 30.195648 L 41.152172 30.195648 L 41.152172 32.282608 L 25.847824 32.282608 L 25.847824 30.195652 z M 41.152172 35.76087 L 41.152172 37.847828 L 25.847824 37.847828 L 25.847824 35.76087 L 41.152172 35.76087 z M 38.369564 19.06522 L 28.630432 19.06522 L 28.630432 15.58696 C 28.630432 14.434264 29.564692 13.500003 30.717388 13.500003 L 36.282604 13.500003 C 37.435303 13.500003 38.369564 14.434264 38.369564 15.58696 L 38.369564 19.06522 z " fill="#ffffff" fill-opacity="1"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="33.0005" x2="33.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="50" y2="4.0005">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+</svg>

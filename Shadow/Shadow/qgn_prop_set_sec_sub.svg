@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="57px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 67 57" width="67px" x="0px" y="0px" zoomAndPan="magnify">
+<rect fill="#ffffff" fill-opacity="0.70588235" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.5"/>
+<rect fill="#0500a7" fill-opacity="0.58823529" fill-rule="nonzero" height="48" ry="8.2174387" stroke="none" width="48" x="9.5" y="4.7415257"/>
+<defs>
+<linearGradient gradientUnits="userSpaceOnUse" x1="34" x2="34" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="49.9551" y2="6.4497">
+<stop offset="0" stop-color="#d0cbc5"/>
+<stop offset="0.5031" stop-color="#fafcef"/>
+<stop offset="0.9693" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff"/>
+</linearGradient>
+</defs>
+<g transform="translate(-4.359686,8.9440495)">
+<path d="M 28.50798 19.556168 C 28.50798 21.620874 26.834206 23.29465 24.7695 23.29465 C 22.704794 23.29465 21.03102 21.620872 21.03102 19.556168 C 21.03102 17.49146 22.704794 15.817686 24.7695 15.817686 C 26.834208 15.817686 28.50798 17.49146 28.50798 19.556168 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-miterlimit="4"/>
+<path d="M 37.249607 19.556168 C 37.249607 21.620874 35.575832 23.29465 33.511127 23.29465 C 31.44642 23.29465 29.772646 21.620872 29.772646 19.556168 C 29.772646 17.49146 31.44642 15.817686 33.511127 15.817686 C 35.575832 15.817686 37.249607 17.49146 37.249607 19.556168 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-miterlimit="4"/>
+<path d="M 45.96898 19.55595 C 45.96898 21.620657 44.295204 23.294432 42.2305 23.294432 C 40.16579 23.294432 38.492016 21.620655 38.492016 19.55595 C 38.492016 17.491243 40.16579 15.817469 42.2305 15.817469 C 44.295204 15.817469 45.96898 17.491243 45.96898 19.55595 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-miterlimit="4"/>
+<path d="M 54.68835 19.555733 C 54.68835 21.62044 53.014576 23.294214 50.94987 23.294214 C 48.885162 23.294214 47.211388 21.620438 47.211388 19.555733 C 47.211388 17.491026 48.885162 15.817251 50.94987 15.817251 C 53.014576 15.817251 54.68835 17.491026 54.68835 19.555733 z " fill="#ffffff" fill-opacity="1" fill-rule="nonzero" stroke="none" stroke-miterlimit="4"/>
+</g>
+</svg>

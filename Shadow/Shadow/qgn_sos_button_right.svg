@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" contentScriptType="text/ecmascript" contentStyleType="text/css" height="50px" preserveAspectRatio="xMidYMid meet" version="1.1" viewBox="0 0 25 50" width="25px" x="0px" y="0px" zoomAndPan="magnify">
+<linearGradient gradientUnits="userSpaceOnUse" x1="11.9995" x2="11.9995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="5" y2="44.7557">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.0057" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<path d="M 4.0 5.0 L 0.0 5.0 L 0.0 45.0 L 4.0 45.0 C 18.953 45.0 24.0 39.953 24.0 25.0 C 24.0 10.047001 18.953 5.0 4.0 5.0 z " fill="#2e2e2e" fill-opacity="1" stroke-opacity="0.12"/>
+<linearGradient gradientUnits="userSpaceOnUse" x1="12.0005" x2="12.0005" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="45.2383" y2="5.474">
+<stop offset="0" stop-color="#ffffff"/>
+<stop offset="0.0057" stop-color="#ffffff"/>
+<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient gradientUnits="userSpaceOnUse" x1="12.4995" x2="12.4995" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="4" y2="46.144">
+<stop offset="0" stop-color="#000000"/>
+<stop offset="0.0057" stop-color="#000000"/>
+<stop offset="1" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+<rect fill="none" height="50" width="25"/>
+</svg>
